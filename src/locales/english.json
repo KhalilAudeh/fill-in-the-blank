@@ -1,0 +1,24 @@
+{
+    "text": {
+        "title": "here will be the homepage in english"
+    },
+    "headings": {
+        "heading-1": "home",
+        "heading-2": "gestalt therapy",
+        "heading-3": "about me",
+        "heading-4": "meditation",
+        "heading-5": "contact",
+        "heading-6": "articles and publications",
+        "heading-7": "consultancy",
+        "heading-8": "talks and lectures"
+    },
+    "gestalt-sub-headings": {
+        "sub-heading-1": "what is gestalt therapy?",
+        "sub-heading-2": "services offered",
+        "sub-heading-3": "book session",
+        "sub-heading-4": "rates",
+        "sub-heading-5": "sample topics",
+        "sub-heading-6": "about me",
+        "sub-heading-7": "workshop"
+    }
+}
