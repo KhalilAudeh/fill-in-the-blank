@@ -33,7 +33,7 @@
             </p>
           </label>
 
-          <router-link :to="`/${$i18n.locale}/`"
+          <router-link :to="`/${$i18n.locale}/gestalt-therapy`"
             ><p>
               {{ $t("headings.heading-2") }}&nbsp;&nbsp;
               <i class="fa fa-caret-down" aria-hidden="true"></i>
@@ -44,13 +44,13 @@
 
           <ul>
             <li>
-              <router-link :to="`/${$i18n.locale}/`" class="d-md-none sub-title"
+              <router-link :to="`/${$i18n.locale}/gestalt-therapy`" class="d-md-none sub-title"
                 >{{ $t("headings.heading-2") }}
               </router-link>
             </li>
 
             <li>
-              <router-link :to="`/${$i18n.locale}/`" class="sub-title">{{
+              <router-link :to="`/${$i18n.locale}/what-is-gestalt-therapy`" class="sub-title">{{
                 $t("gestalt-sub-headings.sub-heading-1")
               }}</router-link>
             </li>
@@ -197,6 +197,7 @@ nav ul ul {
   display: none;
   position: absolute;
   top: 75px;
+  z-index: 1000;
 }
 
 nav ul li:hover > ul {
