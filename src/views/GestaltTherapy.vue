@@ -6,7 +6,7 @@
 
 <script>
 export default {
-    name: 'Gestalt Therapy',
+    name: 'GestaltTherapy',
 
     data() {
         return {

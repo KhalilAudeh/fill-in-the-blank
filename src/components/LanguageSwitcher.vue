@@ -22,7 +22,6 @@ export default {
 
 <style scoped>
 select {
-   text-transform: capitalize !important;
    font-size: 20px;
    padding: 5px 10px;
    margin: 20px 10px;

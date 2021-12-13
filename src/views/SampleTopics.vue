@@ -1,0 +1,113 @@
+<template>
+  <div class="container p-4 p-md-5">
+    <div class="row mb-4">
+      <div class="col text-lowercase">
+        <h1 class="georgia-title section-title d-none d-md-block">
+          <strong class="colored-bracket">[ </strong
+          >{{ $t("sample-topics.page-title")
+          }}<strong class="colored-bracket"> ]</strong>
+        </h1>
+        <h3 class="georgia-title section-title d-block d-md-none">
+          <strong class="colored-bracket">[ </strong
+          >{{ $t("sample-topics.page-title")
+          }}<strong class="colored-bracket"> ]</strong>
+        </h3>
+      </div>
+    </div>
+
+    <div class="row mb-5">
+      <div class="col-12 col-md-7">
+        <p v-html="$t('sample-topics.section')"></p>
+      </div>
+
+      <div class="col-12 col-md-5 m-auto">
+        <strong class="h2"> &#187;</strong>
+        <img
+          src="@/assets/multi-colorful-leaves.jpg"
+          alt=""
+          class="img-fluid shadow rounded-lg"
+        />
+        <strong class="h2 float-right">&#171;</strong>
+      </div>
+    </div>
+
+    <div class="row">
+      <div
+        class="
+          col-12 col-md-5
+          p-4
+          mb-4
+          m-md-4
+          shadow
+          border
+          rounded-lg
+          topic-card
+        "
+        v-for="(topic, index) in topics_blocks"
+        :key="index"
+      >
+        <h4 class="georgia-title d-none d-md-block">
+          <strong>&#187; {{ topic.topic_title }}</strong>
+        </h4>
+        <h5 class="georgia-title d-block d-md-none">
+          <strong>&#187; {{ topic.topic_title }}</strong>
+        </h5>
+
+        <br />
+
+        <p v-html="topic.topic_content"></p>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "SampleTopics",
+
+  data() {
+    return {
+      topics_blocks: this.$t("sample-topics.topics-blocks"),
+    };
+  },
+
+  mounted() {},
+
+  methods: {},
+
+  filters: {},
+};
+</script>
+
+<style scoped>
+p {
+  white-space: break-spaces;
+}
+
+.topic-card::before {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 0;
+  border: 30px solid transparent;
+  border-right: 30px solid #1e7e34;
+  border-top: 30px solid #1e7e347a;
+}
+
+.topic-card:hover:before {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: 2s;
+  border: 30px solid transparent;
+  border-right: 30px solid #1e7e34;
+  border-top: 30px solid #1e7e34;
+}
+
+@media all and (min-width: 768px) {
+  p {
+    font-size: 20px;
+  }
+}
+</style>

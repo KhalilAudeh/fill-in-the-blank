@@ -1,45 +1,70 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
-import i18n from "../i18n";
+// import i18n from "../i18n";
 
 Vue.use(VueRouter);
 
 const routes = [
-  {
-    path: "/",
-    redirect: `/${i18n.locale}`,
-  },
-  {
-    path: "/:lang",
-    component: {
-      render(c) {
-        return c("router-view");
-      },
-    },
-    children: [
+  // {
+  //   path: "/",
+  //   redirect: `/${i18n.locale}`,
+  // },
+  // {
+  //   path: "/:lang",
+  //   component: {
+  //     render(c) {
+  //       return c("router-view");
+  //     },
+  //   },
+  //   children: [
       {
         path: "/",
-        name: "Home",
+        name: "home",
         component: () => import("../views/Home.vue"),
       },
       {
-        path: "gestalt-therapy",
-        name: "Gestalt Therapy",
+        path: "/gestalt-therapy",
+        name: "gestalt therapy",
         component: () => import("../views/GestaltTherapy.vue"),
       },
       {
-        path: "what-is-gestalt-therapy",
-        name: "What Is Gestalt Therapy",
+        path: "/what-is-gestalt-therapy",
+        name: "what is gestalt therapy",
         component: () => import("../views/WhatIsGestaltTherapy.vue"),
       },
       {
-        path: "about",
-        name: "About",
-        component: () => import("../views/About.vue"),
+        path: "/services-offered",
+        name: "services offered",
+        component: () => import("../views/ServicesOffered.vue"),
       },
-    ],
-  },
-];
+      {
+        path: "/book-session",
+        name: "book session",
+        component: () => import("../views/BookSession.vue"),
+      },
+      {
+        path: "/prices",
+        name: "prices",
+        component: () => import("../views/Prices.vue"),
+      },
+      {
+        path: "/sample-topics",
+        name: "sample topics",
+        component: () => import("../views/SampleTopics.vue"),
+      },
+      {
+        path: "/workshop",
+        name: "workshop",
+        component: () => import("../views/Workshop.vue"),
+      },
+      {
+        path: "/about-me",
+        name: "about me",
+        component: () => import("../views/AboutMe.vue"),
+      },
+]
+//   },
+// ];
 
 const router = new VueRouter({
   // mode: "history",

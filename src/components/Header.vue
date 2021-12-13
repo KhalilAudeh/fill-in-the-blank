@@ -18,9 +18,9 @@
 
       <input type="checkbox" id="drop" />
 
-      <ul class="nav text-capitalize">
+      <ul class="nav text-lowercase">
         <li>
-          <router-link :to="`/${$i18n.locale}/`">{{
+          <router-link :to="`/`">{{
             $t("headings.heading-1")
           }}</router-link>
         </li>
@@ -33,7 +33,7 @@
             </p>
           </label>
 
-          <router-link :to="`/${$i18n.locale}/gestalt-therapy`"
+          <router-link :to="`/gestalt-therapy`"
             ><p>
               {{ $t("headings.heading-2") }}&nbsp;&nbsp;
               <i class="fa fa-caret-down" aria-hidden="true"></i>
@@ -44,43 +44,43 @@
 
           <ul>
             <li>
-              <router-link :to="`/${$i18n.locale}/gestalt-therapy`" class="d-md-none sub-title"
+              <router-link :to="`/gestalt-therapy`" class="d-md-none sub-title"
                 >{{ $t("headings.heading-2") }}
               </router-link>
             </li>
 
             <li>
-              <router-link :to="`/${$i18n.locale}/what-is-gestalt-therapy`" class="sub-title">{{
+              <router-link :to="`/what-is-gestalt-therapy`" class="sub-title">{{
                 $t("gestalt-sub-headings.sub-heading-1")
               }}</router-link>
             </li>
 
             <li>
-              <router-link :to="`/${$i18n.locale}/`" class="sub-title">{{
+              <router-link :to="`/services-offered`" class="sub-title">{{
                 $t("gestalt-sub-headings.sub-heading-2")
               }}</router-link>
             </li>
 
             <li>
-              <router-link :to="`/${$i18n.locale}/`" class="sub-title">{{
+              <router-link :to="`/book-session`" class="sub-title">{{
                 $t("gestalt-sub-headings.sub-heading-3")
               }}</router-link>
             </li>
 
             <li>
-              <router-link :to="`/${$i18n.locale}/`" class="sub-title">{{
+              <router-link :to="`/prices`" class="sub-title">{{
                 $t("gestalt-sub-headings.sub-heading-4")
               }}</router-link>
             </li>
 
             <li>
-              <router-link :to="`/${$i18n.locale}/`" class="sub-title">{{
+              <router-link :to="`/sample-topics`" class="sub-title">{{
                 $t("gestalt-sub-headings.sub-heading-5")
               }}</router-link>
             </li>
 
             <li>
-              <router-link :to="`/${$i18n.locale}/`" class="sub-title">{{
+              <router-link :to="`/workshop`" class="sub-title">{{
                 $t("gestalt-sub-headings.sub-heading-7")
               }}</router-link>
             </li>
@@ -88,38 +88,38 @@
         </li>
 
         <li>
-          <router-link :to="`/${$i18n.locale}/`">{{
+          <router-link :to="`/about-me`">{{
             $t("headings.heading-3")
           }}</router-link>
         </li>
 
         <li>
-          <router-link :to="`/${$i18n.locale}/`">{{
+          <router-link :to="`/`">{{
             $t("headings.heading-4")
           }}</router-link>
         </li>
 
         <li>
-          <router-link :to="`/${$i18n.locale}/`">{{
+          <router-link :to="`/`">{{
             $t("headings.heading-5")
           }}</router-link>
         </li>
 
-        <LanguageSwitcher></LanguageSwitcher>
+        <!-- <LanguageSwitcher></LanguageSwitcher> -->
       </ul>
     </nav>
   </div>
 </template>
 
 <script>
-import LanguageSwitcher from "@/components/LanguageSwitcher.vue";
+// import LanguageSwitcher from "@/components/LanguageSwitcher.vue";
 
 export default {
   name: "Header",
 
-  components: {
-    LanguageSwitcher,
-  },
+  // components: {
+  //   LanguageSwitcher,
+  // },
 };
 </script>
 
