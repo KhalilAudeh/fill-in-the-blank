@@ -9,20 +9,18 @@
 
       <!--FOR MOBILE USE HEADER LOGO WITH ICON-->
       <label for="drop" class="toggle">
-        <span class="logo-title-mobile"
-          ><strong style="font-size: 30px;">[</strong> fill in the blank
-          <strong style="font-size: 30px;">]</strong></span
-        >
+        <div class="logo-title-mobile">
+          <strong style="font-size: 25px;">[</strong> fill in the blank
+          <strong style="font-size: 25px;">]</strong>
+        </div>
         <i class="fa fa-bars" aria-hidden="true"></i>
       </label>
 
       <input type="checkbox" id="drop" />
 
       <ul class="nav text-lowercase">
-        <li>
-          <router-link :to="`/`">{{
-            $t("headings.heading-1")
-          }}</router-link>
+        <li @click="closeSideMenu">
+          <router-link :to="`/`">{{ $t("headings.heading-1") }}</router-link>
         </li>
 
         <li>
@@ -43,43 +41,43 @@
           <input type="checkbox" id="drop-2" />
 
           <ul>
-            <li>
+            <li @click="closeSideMenu">
               <router-link :to="`/gestalt-therapy`" class="d-md-none sub-title"
                 >{{ $t("headings.heading-2") }}
               </router-link>
             </li>
 
-            <li>
-              <router-link :to="`/what-is-gestalt-therapy`" class="sub-title">{{
+            <li @click="closeSideMenu">
+              <router-link :to="`/why-gestalt-therapy`" class="sub-title">{{
                 $t("gestalt-sub-headings.sub-heading-1")
               }}</router-link>
             </li>
 
-            <li>
+            <li @click="closeSideMenu">
               <router-link :to="`/services-offered`" class="sub-title">{{
                 $t("gestalt-sub-headings.sub-heading-2")
               }}</router-link>
             </li>
 
-            <li>
+            <li @click="closeSideMenu">
               <router-link :to="`/book-session`" class="sub-title">{{
                 $t("gestalt-sub-headings.sub-heading-3")
               }}</router-link>
             </li>
 
-            <li>
+            <li @click="closeSideMenu">
               <router-link :to="`/prices`" class="sub-title">{{
                 $t("gestalt-sub-headings.sub-heading-4")
               }}</router-link>
             </li>
 
-            <li>
+            <li @click="closeSideMenu">
               <router-link :to="`/sample-topics`" class="sub-title">{{
                 $t("gestalt-sub-headings.sub-heading-5")
               }}</router-link>
             </li>
 
-            <li>
+            <li @click="closeSideMenu">
               <router-link :to="`/workshop`" class="sub-title">{{
                 $t("gestalt-sub-headings.sub-heading-7")
               }}</router-link>
@@ -87,22 +85,18 @@
           </ul>
         </li>
 
-        <li>
+        <li @click="closeSideMenu">
           <router-link :to="`/about-me`">{{
             $t("headings.heading-3")
           }}</router-link>
         </li>
 
-        <li>
-          <router-link :to="`/`">{{
-            $t("headings.heading-4")
-          }}</router-link>
+        <li @click="closeSideMenu">
+          <router-link :to="`/`">{{ $t("headings.heading-4") }}</router-link>
         </li>
 
-        <li>
-          <router-link :to="`/`">{{
-            $t("headings.heading-5")
-          }}</router-link>
+        <li @click="closeSideMenu">
+          <router-link :to="`/`">{{ $t("headings.heading-5") }}</router-link>
         </li>
 
         <!-- <LanguageSwitcher></LanguageSwitcher> -->
@@ -120,6 +114,15 @@ export default {
   // components: {
   //   LanguageSwitcher,
   // },
+
+  methods: {
+    closeSideMenu() {
+      if (window.innerWidth <= 992) {
+        document.getElementById("drop").checked = false;
+        document.getElementById("drop-2").checked = false;
+      }
+    },
+  },
 };
 </script>
 
@@ -138,7 +141,7 @@ export default {
 nav {
   margin: 0;
   padding: 0;
-  background-color: #041b40;
+  background-color: maroon;
   font-family: Georgia, serif;
 }
 
@@ -160,7 +163,7 @@ nav ul li {
   margin: 0;
   display: inline-block;
   float: left;
-  background-color: #041b40;
+  background-color: maroon;
 }
 
 nav a,
@@ -174,7 +177,7 @@ nav a,
 }
 
 nav ul li ul li:hover {
-  background: #020d1e;
+  background-color: #a27900;
 }
 
 .icon {
@@ -182,7 +185,6 @@ nav ul li ul li:hover {
 }
 
 .toggle p {
-  font-size: 15px;
   font-weight: 600;
   padding: 5px 0;
   margin-left: 5px;
@@ -190,7 +192,7 @@ nav ul li ul li:hover {
 
 nav a:hover {
   color: #ffffff;
-  background-color: #020d1e;
+  background-color: #a27900;
 }
 
 nav ul ul {
@@ -208,7 +210,7 @@ nav ul ul li {
   position: relative;
   display: list-item;
   float: none;
-  width: 220px;
+  width: 200px;
 }
 
 .logo-title-web {
@@ -218,11 +220,11 @@ nav ul ul li {
 
 .logo-title-web {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: 0.1em solid orange; /* The typwriter cursor */
+  border-right: 0.1em solid #a27900; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: 0.15em; /* Adjust as needed */
-  animation: typing 10s steps(50, end), blink-caret 2s step-end;
+  animation: typing 15s steps(50, end), blink-caret 2s step-end;
   animation-iteration-count: infinite;
   animation-delay: 3s;
 }
@@ -244,7 +246,7 @@ nav ul ul li {
     border-color: transparent;
   }
   50% {
-    border-color: orange;
+    border-color: #a27900;
   }
 }
 
@@ -268,12 +270,12 @@ nav ul ul li {
     border: none;
     padding: 15px 20px;
     font-size: 20px;
-    background-color: #041b40;
+    background-color: maroon;
     color: #ffffff;
   }
 
   .toggle:hover {
-    background-color: #020d1e;
+    background-color: #a27900;
   }
 
   .toggle i {
@@ -298,7 +300,7 @@ nav ul ul li {
   }
 
   nav a:hover {
-    background-color: #020d1e;
+    background-color: #a27900;
   }
 
   nav ul li ul li .toggle,
@@ -306,7 +308,7 @@ nav ul ul li {
     padding: 15px 20px;
     font-size: 15px;
     color: #ffffff;
-    background-color: #073986;
+    background-color: #ba8a28;
   }
 
   nav ul ul {
@@ -326,12 +328,12 @@ nav ul ul li {
   }
 
   .logo-title-mobile {
+    display: inline-block;
     overflow: hidden; /* Ensures the content is not revealed until the animation */
-    border-right: 0.1em solid orange; /* The typwriter cursor */
+    border-right: 0.1em solid #a27900; /* The typwriter cursor */
     white-space: nowrap; /* Keeps the content on a single line */
-    margin: 0 auto; /* Gives that scrolling effect as the typing happens */
     letter-spacing: 0.15em; /* Adjust as needed */
-    animation: typing 10s steps(50, end), blink-caret 2s step-end;
+    animation: typing 15s steps(50, end), blink-caret 2s step-end;
     animation-iteration-count: infinite;
     animation-delay: 3s;
   }
@@ -342,7 +344,7 @@ nav ul ul li {
       width: 0;
     }
     to {
-      width: 25%;
+      width: 75%;
     }
   }
 
@@ -353,7 +355,7 @@ nav ul ul li {
       border-color: transparent;
     }
     50% {
-      border-color: orange;
+      border-color: #a27900;
     }
   }
 }

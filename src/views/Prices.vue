@@ -45,17 +45,12 @@
     </div>
 
     <div class="row mt-md-5">
-      <div class="col-12 col-md-5 my-5 mx-4 mx-md-0">
-        <img src="@/assets/arrears.jpg" class="col-10" />
-        <img src="@/assets/cancelled.png" class="col-9" />
-      </div>
-
-      <div class="col-12 col-md-7">
-        <h3 class="georgia-title d-none d-md-block">
-          <strong>&#187; {{ $t("prices.page-sub-title-1") }}</strong>
+      <div class="col">
+        <h3 class="georgia-title d-none d-md-block text-capitalize">
+          <strong>{{ $t("prices.page-sub-title-1") }}</strong>
         </h3>
-        <h4 class="georgia-title d-block d-md-none">
-          <strong>&#187; {{ $t("prices.page-sub-title-1") }}</strong>
+        <h4 class="georgia-title d-block d-md-none text-capitalize">
+          <strong>{{ $t("prices.page-sub-title-1") }}</strong>
         </h4>
 
         <br />
@@ -64,20 +59,24 @@
       </div>
     </div>
 
-    <div class="row mt-5">
+    <!-- <div class="row mt-5">
       <div class="col-12 col-md-7">
-        <h3 class="georgia-title d-none d-md-block">
-          <strong>&#187; {{ $t("prices.page-sub-title-2") }}</strong>
+        <h3 class="georgia-title d-none d-md-block text-capitalize">
+          <strong>{{ $t("prices.page-sub-title-2") }}</strong>
         </h3>
-        <h4 class="georgia-title d-block d-md-none">
-          <strong>&#187; {{ $t("prices.page-sub-title-2") }}</strong>
+        <h4 class="georgia-title d-block d-md-none text-capitalize">
+          <strong>{{ $t("prices.page-sub-title-2") }}</strong>
         </h4>
 
         <br />
 
         <p v-html="$t('prices.section-2')"></p>
 
-        <ul v-for="(reason, index) in reasons" :key="index" class="px-3 px-md-4 mb-1">
+        <ul
+          v-for="(reason, index) in reasons"
+          :key="index"
+          class="px-3 px-md-4 mb-1"
+        >
           <li>{{ reason }}</li>
         </ul>
       </div>
@@ -92,7 +91,7 @@
           class="col p-4 shadow shadow-lg-lg"
         />
       </div>
-    </div>
+    </div> -->
   </div>
 </template>
 

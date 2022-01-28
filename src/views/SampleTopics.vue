@@ -34,7 +34,7 @@
     <div class="row">
       <div
         class="
-          col-12 col-md-5
+          col-12
           p-4
           mb-4
           m-md-4
@@ -46,16 +46,26 @@
         v-for="(topic, index) in topics_blocks"
         :key="index"
       >
-        <h4 class="georgia-title d-none d-md-block">
-          <strong>&#187; {{ topic.topic_title }}</strong>
+        <h4 class="georgia-title d-none d-md-block text-capitalize">
+          <strong>{{ topic.topic_title }}</strong>
         </h4>
-        <h5 class="georgia-title d-block d-md-none">
-          <strong>&#187; {{ topic.topic_title }}</strong>
+        <h5 class="georgia-title d-block d-md-none text-capitalize">
+          <strong>{{ topic.topic_title }}</strong>
         </h5>
 
         <br />
 
-        <p v-html="topic.topic_content"></p>
+        <p class="topic-content">
+          {{ topic.topic_content | shortText(450) }}
+        </p>
+
+        <button
+          type="button"
+          class="btn btn-outline-success"
+          @click="setTopicDetails(topic)"
+        >
+          read more
+        </button>
       </div>
     </div>
   </div>
@@ -73,9 +83,20 @@ export default {
 
   mounted() {},
 
-  methods: {},
+  methods: {
+    setTopicDetails(topic) {
+      this.$store.commit("SET_TOPIC_DETAILS", topic);
+      this.$router.push({ path: "topic-details" });
+    },
+  },
 
-  filters: {},
+  filters: {
+    shortText(value, limit) {
+      if (value) {
+        return value.substring(0, limit);
+      }
+    },
+  },
 };
 </script>
 
@@ -103,6 +124,16 @@ p {
   border: 30px solid transparent;
   border-right: 30px solid #1e7e34;
   border-top: 30px solid #1e7e34;
+}
+
+.topic-content::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 75px;
+  width: 100%;
+  height: 50px;
+  background: linear-gradient(transparent, white);
 }
 
 @media all and (min-width: 768px) {

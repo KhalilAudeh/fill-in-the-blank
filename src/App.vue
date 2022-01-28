@@ -2,17 +2,20 @@
   <div>
     <Header></Header>
     <router-view />
+    <Footer></Footer>
   </div>
 </template>
 
 <script>
 import Header from "@/components/Header.vue";
+import Footer from "@/components/Footer.vue";
 
 export default {
   name: "App",
 
   components: {
     Header,
+    Footer
   },
 };
 </script>
@@ -20,10 +23,10 @@ export default {
 <style>
 .georgia-title {
   font-family: Georgia, serif;
-  color: #041b40;
+  color: maroon;
 }
 
 .colored-bracket {
-  color: orange;
+  color: #a27900;
 }
 </style>
