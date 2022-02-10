@@ -23,7 +23,7 @@ export default {
 <style>
 .georgia-title {
   font-family: Georgia, serif;
-  color: maroon;
+  color: maroon !important;
 }
 
 .colored-bracket {

@@ -41,11 +41,11 @@
           <input type="checkbox" id="drop-2" />
 
           <ul>
-            <li @click="closeSideMenu">
+            <!-- <li @click="closeSideMenu">
               <router-link :to="`/gestalt-therapy`" class="d-md-none sub-title"
                 >{{ $t("headings.heading-2") }}
               </router-link>
-            </li>
+            </li> -->
 
             <li @click="closeSideMenu">
               <router-link :to="`/why-gestalt-therapy`" class="sub-title">{{
@@ -72,14 +72,20 @@
             </li>
 
             <li @click="closeSideMenu">
-              <router-link :to="`/sample-topics`" class="sub-title">{{
+              <router-link :to="`/practical-info`" class="sub-title">{{
                 $t("gestalt-sub-headings.sub-heading-5")
               }}</router-link>
             </li>
 
             <li @click="closeSideMenu">
+              <router-link :to="`/sample-topics`" class="sub-title">{{
+                $t("gestalt-sub-headings.sub-heading-6")
+              }}</router-link>
+            </li>
+
+            <li @click="closeSideMenu">
               <router-link :to="`/workshop`" class="sub-title">{{
-                $t("gestalt-sub-headings.sub-heading-7")
+                $t("gestalt-sub-headings.sub-heading-8")
               }}</router-link>
             </li>
           </ul>
@@ -92,11 +98,11 @@
         </li>
 
         <li @click="closeSideMenu">
-          <router-link :to="`/`">{{ $t("headings.heading-4") }}</router-link>
+          <router-link :to="`/meditation`">{{ $t("headings.heading-4") }}</router-link>
         </li>
 
         <li @click="closeSideMenu">
-          <router-link :to="`/`">{{ $t("headings.heading-5") }}</router-link>
+          <router-link :to="`/contact-me`">{{ $t("headings.heading-5") }}</router-link>
         </li>
 
         <!-- <LanguageSwitcher></LanguageSwitcher> -->

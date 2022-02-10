@@ -2,12 +2,12 @@
   <div class="container p-4 p-md-5">
     <div class="row mb-4">
       <div class="col text-lowercase">
-        <h1 class="georgia-title section-title d-none d-md-block">
+        <h1 class="georgia-title d-none d-md-block">
           <strong class="colored-bracket">[ </strong
           >{{ $t("services-offered.page-title")
           }}<strong class="colored-bracket"> ]</strong>
         </h1>
-        <h3 class="georgia-title section-title d-block d-md-none">
+        <h3 class="georgia-title d-block d-md-none">
           <strong class="colored-bracket">[ </strong
           >{{ $t("services-offered.page-title")
           }}<strong class="colored-bracket"> ]</strong>
@@ -23,7 +23,7 @@
       >
         <h5>
           <a
-            class="georgia-title text-capitalize card p-2 rounded-0"
+            class="georgia-title card p-2 rounded-0"
             :href="'#' + service.title"
           >
             {{ service.title }}
@@ -49,10 +49,10 @@
       :key="index"
     >
       <div class="col" :id="service.title">
-        <h3 class="georgia-title d-none d-md-block text-capitalize mt-3">
+        <h3 class="georgia-title d-none d-md-block mt-3">
           <strong> {{ index + 1 }}. {{ service.title }} </strong>
         </h3>
-        <h4 class="georgia-title d-block d-md-none text-capitalize mt-3">
+        <h4 class="georgia-title d-block d-md-none mt-3">
           <strong>{{ index + 1 }}. {{ service.title }}</strong>
         </h4>
 

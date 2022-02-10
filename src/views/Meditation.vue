@@ -4,31 +4,31 @@
       <div class="col text-lowercase">
         <h1 class="georgia-title d-none d-md-block">
           <strong class="colored-bracket">[ </strong
-          >{{ $t("workshop.page-title")
+          >{{ $t("meditation.page-title")
           }}<strong class="colored-bracket"> ]</strong>
         </h1>
         <h3 class="georgia-title d-block d-md-none">
           <strong class="colored-bracket">[ </strong
-          >{{ $t("workshop.page-title")
+          >{{ $t("meditation.page-title")
           }}<strong class="colored-bracket"> ]</strong>
         </h3>
       </div>
     </div>
 
-    <div class="row mt-md-5">
-      <div class="col-12 col-md-6 mb-4">
+    <div class="row mt-md-5 justify-content-center">
+      <div class="col-8 col-md-4 mb-4">
         <img
-          src="@/assets/trees-for-autumn-colour.jpg"
-          class="col p-0 shadow shadow-lg rounded"
+          src="@/assets/meditation.jpg"
+          class="col shadow shadow-lg rounded-circle"
         />
       </div>
 
-      <div class="col-12 col-md-6 m-auto">
+      <div class="col-12 col-md-7 m-auto">
         <h3 class="font-italic d-none d-md-block">
-          &#187; {{ $t("workshop.section") }}
+          &#187; {{ $t("meditation.section") }}
         </h3>
         <h5 class="font-italic d-block d-md-none">
-          &#187; {{ $t("workshop.section") }}
+          &#187; {{ $t("meditation.section") }}
         </h5>
       </div>
     </div>
@@ -37,7 +37,7 @@
 
 <script>
 export default {
-  name: "Workshop",
+  name: "Meditation",
 
   data() {
     return {};
@@ -49,5 +49,4 @@ export default {
 };
 </script>
 
-<style scoped>
-</style>
+<style scoped></style>

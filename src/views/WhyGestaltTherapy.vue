@@ -2,12 +2,12 @@
   <div class="container p-4 p-md-5">
     <div class="row mb-4">
       <div class="col text-lowercase">
-        <h1 class="georgia-title section-title d-none d-md-block">
+        <h1 class="georgia-title d-none d-md-block">
           <strong class="colored-bracket">[ </strong
           >{{ $t("why-gestalt-therapy.page-title")
           }}<strong class="colored-bracket"> ]</strong>
         </h1>
-        <h3 class="georgia-title section-title d-block d-md-none">
+        <h3 class="georgia-title d-block d-md-none">
           <strong class="colored-bracket">[ </strong
           >{{ $t("why-gestalt-therapy.page-title")
           }}<strong class="colored-bracket"> ]</strong>
@@ -39,7 +39,7 @@
     <br />
 
     <div class="row">
-      <div class="col text-capitalize">
+      <div class="col">
         <h3 class="georgia-title d-none d-md-block">
           {{ $t("why-gestalt-therapy.page-title-2") }}
         </h3>
@@ -73,7 +73,7 @@
     <br />
 
     <div class="row">
-      <div class="col text-capitalize">
+      <div class="col">
         <h4 class="georgia-title d-none d-md-block">
           <strong>
             {{ $t("why-gestalt-therapy.page-sub-title-2") }}
@@ -98,7 +98,7 @@
     <br />
 
     <div class="row">
-      <div class="col text-capitalize">
+      <div class="col">
         <h4 class="georgia-title d-none d-md-block">
           <strong>
             {{ $t("why-gestalt-therapy.page-sub-title-3") }}
@@ -123,7 +123,7 @@
     <br />
 
     <div class="row">
-      <div class="col text-capitalize">
+      <div class="col">
         <h4 class="georgia-title d-none d-md-block">
           <strong>
             {{ $t("why-gestalt-therapy.page-sub-title-4") }}

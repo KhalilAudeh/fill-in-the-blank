@@ -4,20 +4,34 @@
       <div class="col text-lowercase">
         <h1 class="georgia-title d-none d-md-block">
           <strong class="colored-bracket">[ </strong
-          >{{ topic_details.topic_title
+          >{{ $t("contact-me.page-title")
           }}<strong class="colored-bracket"> ]</strong>
         </h1>
         <h3 class="georgia-title d-block d-md-none">
           <strong class="colored-bracket">[ </strong
-          >{{ topic_details.topic_title
+          >{{ $t("contact-me.page-title")
           }}<strong class="colored-bracket"> ]</strong>
         </h3>
       </div>
     </div>
 
-    <div class="row">
-      <div class="col">
-        <p v-html="topic_details.topic_content"></p>
+    <div class="row mt-md-5 justify-content-center">
+      <div class="col-6 col-md-6 col-lg-3">
+        <img
+          src="@/assets/orjan-leaf.jpg"
+          class="col p-0 shadow shadow-lg-lg rounded"
+        />
+      </div>
+
+      <div class="col-12 col-md-6 col-lg-6 my-4">
+        <p v-html="$t('contact-me.section')"></p>
+      </div>
+
+      <div class="col-6 col-md-6 col-lg-3">
+        <img
+          src="@/assets/orjan-profile-2.jpeg"
+          class="col p-0 shadow shadow-lg rounded"
+        />
       </div>
     </div>
   </div>
@@ -25,12 +39,10 @@
 
 <script>
 export default {
-  name: "TopicDetails",
+  name: "ContactMe",
 
   data() {
-    return {
-      topic_details: this.$store.getters.GET_TOPIC_DETAILS,
-    };
+    return {};
   },
 
   mounted() {},
@@ -44,7 +56,7 @@ p {
   white-space: break-spaces;
 }
 
-@media all and (min-width: 768px) {
+@media all and (min-width: 992px) {
   p {
     font-size: 20px;
   }

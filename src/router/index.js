@@ -48,6 +48,11 @@ const routes = [
     component: () => import("../views/Prices.vue"),
   },
   {
+    path: "/practical-info",
+    name: "practical info",
+    component: () => import("../views/PracticalInfo.vue"),
+  },
+  {
     path: "/sample-topics",
     name: "sample topics",
     component: () => import("../views/SampleTopics.vue"),
@@ -67,6 +72,16 @@ const routes = [
     name: "about me",
     component: () => import("../views/AboutMe.vue"),
   },
+  {
+    path: "/meditation",
+    name: "meditation",
+    component: () => import("../views/Meditation.vue"),
+  },
+  {
+    path: "/contact-me",
+    name: "contact me",
+    component: () => import("../views/ContactMe.vue"),
+  },
 ];
 //   },
 // ];
@@ -74,6 +89,14 @@ const routes = [
 const router = new VueRouter({
   // mode: "history",
   routes,
+  scrollBehavior(to, from, savedPosition) {
+    // return desired position
+    if (savedPosition) {
+      return savedPosition;
+    } else {
+      return { x: 0, y: 0 };
+    }
+  },
 });
 
 // router.beforeEach((to) => {

@@ -2,12 +2,12 @@
   <div class="container p-4 p-md-5">
     <div class="row mb-4">
       <div class="col text-lowercase">
-        <h1 class="georgia-title section-title d-none d-md-block">
+        <h1 class="georgia-title d-none d-md-block">
           <strong class="colored-bracket">[ </strong
           >{{ $t("book-session.page-title")
           }}<strong class="colored-bracket"> ]</strong>
         </h1>
-        <h3 class="georgia-title section-title d-block d-md-none">
+        <h3 class="georgia-title d-block d-md-none">
           <strong class="colored-bracket">[ </strong
           >{{ $t("book-session.page-title")
           }}<strong class="colored-bracket"> ]</strong>
@@ -26,17 +26,22 @@
       <div class="col-12 col-md-6">
         <p
           v-html="$t('book-session.section')"
-          class="font-weight-bold font-italic"
+          class="font-weight-bold"
         ></p>
 
         <ul class="px-4">
           <li>{{ $t("book-session.first-name") }}</li>
           <li>{{ $t("book-session.last-name") }}</li>
-          <li>{{ $t("book-session.e-mail") }}</li>
+          <!-- <li>{{ $t("book-session.e-mail") }}</li> -->
           <li>{{ $t("book-session.phone") }}</li>
           <li>{{ $t("book-session.interested-service") }}</li>
           <li>{{ $t("book-session.request") }}</li>
         </ul>
+
+        <p
+          class="font-weight-bold font-italic"
+        >{{ $t("book-session.note") }}</p>
+
       </div>
     </div>
 
