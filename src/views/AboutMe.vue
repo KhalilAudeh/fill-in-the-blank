@@ -44,7 +44,8 @@
     <div class="row mt-4">
       <div class="col-12 col-md-5">
         <div class="row">
-          <img src="@/assets/orjan-profile-3.jpeg" class="col-10" />
+          <img src="@/assets/about-me.jpg" class="col-10 p-0 shadow shadow-lg-lg rounded mx-auto mb-5" />
+          <img src="@/assets/orjan-profile-3.jpeg" class="col-10 p-0 shadow shadow-lg-lg rounded mx-auto my-5" />
         </div>
       </div>
 

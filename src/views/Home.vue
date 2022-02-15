@@ -22,7 +22,7 @@
         <div class="row">
           <div class="col p-0 bracket m-auto">&#91;</div>
 
-          <div class="col-10 p-0">
+          <div class="col-9 col-lg-10 p-0">
             <p v-html="$t('home.section-1')" class="px-4"></p>
           </div>
 

@@ -98,11 +98,15 @@
         </li>
 
         <li @click="closeSideMenu">
-          <router-link :to="`/meditation`">{{ $t("headings.heading-4") }}</router-link>
+          <router-link :to="`/meditation`">{{
+            $t("headings.heading-4")
+          }}</router-link>
         </li>
 
         <li @click="closeSideMenu">
-          <router-link :to="`/contact-me`">{{ $t("headings.heading-5") }}</router-link>
+          <router-link :to="`/contact-me`">{{
+            $t("headings.heading-5")
+          }}</router-link>
         </li>
 
         <!-- <LanguageSwitcher></LanguageSwitcher> -->
@@ -362,6 +366,18 @@ nav ul ul li {
     }
     50% {
       border-color: #a27900;
+    }
+  }
+}
+
+@media (min-width: 768px) and (max-width: 820px) {
+  /* The typing effect */
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 35%;
     }
   }
 }
