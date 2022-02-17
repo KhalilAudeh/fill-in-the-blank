@@ -1,5 +1,7 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
+import NProgress from "nprogress";
+import "nprogress/nprogress.css";
 // import i18n from "../i18n";
 
 Vue.use(VueRouter);
@@ -107,10 +109,19 @@ const router = new VueRouter({
 //   i18n.locale = language;
 // });
 
+router.beforeResolve((to, from, next) => {
+  if (to.path) {
+    NProgress.start();
+  }
+  next();
+});
+
 router.afterEach((to) => {
   Vue.nextTick(() => {
     document.title = " [ " + to.name + " ]";
   });
+
+  NProgress.done();
 });
 
 export default router;
