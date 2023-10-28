@@ -4,10 +4,9 @@
       <div class="col py-4 text-center">
         <h6 class="m-0">
           &copy; Copyright
-          <span class="colored-bracket h4 font-weight-bold">[</span> fill in the
-          blank
+          <span class="colored-bracket h4 font-weight-bold">[</span> fill in the blank
           <span class="colored-bracket h4 font-weight-bold">]</span>
-          , 2022.
+          , {{ currentYear }}.
         </h6>
       </div>
     </div>
@@ -19,7 +18,9 @@ export default {
   name: "Footer",
 
   data() {
-    return {};
+    return {
+      currentYear: new Date().getFullYear(),
+    };
   },
 
   mounted() {},
