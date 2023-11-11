@@ -1,228 +1,230 @@
 {
-    "headings": {
-        "heading-1": "hjem",
-        "heading-2": "gestaltterapi",
-        "heading-3": "Om meg",
-        "heading-4": "meditasjon",
-        "heading-5": "kontakt",
-        "heading-6": "artikler og publikasjoner",
-        "heading-7": "konsulentvirksomhet",
-        "heading-8": "foredrag"
-    },
-    "gestalt-sub-headings": {
-        "sub-heading-1": "hvorfor gestaltterapi?",
-        "sub-heading-2": "tjenester",
-        "sub-heading-3": "bestill time",
-        "sub-heading-4": "priser",
-        "sub-heading-5": "praktisk informasjon",
-        "sub-heading-6": "tema for samtale",
-        "sub-heading-7": "om meg",
-        "sub-heading-8": "klimakrisa"
-    },
-    "home": {
-        "page-title": "hjem",
-        "section-1": "Jeg har forsøkt å oversette \"fill in the blank\" på en måte som gir mening på norsk. \n“Fyll inn tomrommet” har ikke samme betydning, ettersom at “tomrom” ikke er et nøytralt begrep på norsk. \n\nSå hva er egentlig <strong>[ fillintheblank ]</strong>? \n\nSom gestaltterapeut gjenspeiler det fint hvordan metodikk, teori, og verdier informerer samtaleterapi i møte mellom meg som terapeut og du som klient. Det er klare rammer <strong>[ ]</strong> som legger til rette for samtalene, men oss to som fyller inn hva vi ønsker møtene skal handle om. Det er et rom der hva enn vi ønsker å bringe inn dit, skal bli holdt på en god og trygg måte. \n\n<strong>I Buddhismen</strong> <i>(som også informerer mitt verdigrunnlag og retningsgir hvordan jeg lever)</i> <strong>er mennesket og dens virkelighet holdt i et tomrom.</strong>",
-        "section-2": "Det er bevisstheten på <strong>“hvem vi blir”</strong> <strong>“hva vi tenker”</strong> og <strong>“hvordan vi handler”</strong> som gjør at vi ved hjelp av tilstedeværelse og bevissthetstrening kan gi slipp på lidelse og ta andre valg. Faktisk i sin essens ER vi tomrom, og alt annet dukker opp som midlertidige fenomen som kommer og går. \n\n<strong>[ ]</strong> blir tilstedeværelsen, og <strong>“tomrommet vi fyller”</strong> blir alle tanker, identiteter vi inntar og handlinger vi gjør. \n\n<strong>[ fillintheblank ]</strong> er dermed hva jeg tilbyr: som terapeut, konsulent og skribent. \n\nDu kan lese mer “<a href=\"https://www.fillintheblank.no/#/about-me\"><strong>om meg</strong></a>” her, eller “<a href=\"https://www.fillintheblank.no/#/contact-me\"><strong>ta kontakt</strong></a>” om du ønsker å ta en uformell samtale om fremtidig samarbeid eller konsultasjon. \n\nOm du ønsker å forespørre muligheten til å starte i samtaleterapi eller delta i en workshop hos meg, kan du gå til “<a href=\"https://www.fillintheblank.no/#/gestalt-therapy\"><strong>gestaltterapi</strong></a>”."
-    },
-    "gestalt-therapy": {
-        "page-title": "gestaltterapi",
-        "categories": [
-            {
-                "title": "hvorfor gestaltterapi?",
-                "image": "https://fillintheblank.no/img/dandelion-seeds.22680498.jpg",
-                "path": "why-gestalt-therapy"
-            },
-            {
-                "title": "tjenester",
-                "image": "https://fillintheblank.no/img/services-offered-banner.53cd8a61.jpg",
-                "path": "services-offered"
-            },
-            {
-                "title": "bestill time",
-                "image": "https://fillintheblank.no/img/book-session-banner.a895c5c8.jpg",
-                "path": "book-session"
-            },
-            {
-                "title": "priser",
-                "image": "https://fillintheblank.no/img/trees-for-autumn-colour.abc513d1.jpg",
-                "path": "prices"
-            },
-            {
-                "title": "praktisk informasjon",
-                "image": "https://fillintheblank.no/img/a-person-holding-maple-leaves.24dfcb81.jpg",
-                "path": "practical-info"
-            },
-            {
-                "title": "tema for samtale",
-                "image": "https://fillintheblank.no/img/multi-colorful-leaves.9a6658e9.jpg",
-                "path": "sample-topics"
-            }
+  "headings": {
+    "heading-1": "hjem",
+    "heading-2": "gestaltterapi",
+    "heading-3": "Om meg",
+    "heading-4": "meditasjon",
+    "heading-5": "kontakt",
+    "heading-6": "artikler og publikasjoner",
+    "heading-7": "konsulentvirksomhet",
+    "heading-8": "foredrag"
+  },
+  "gestalt-sub-headings": {
+    "sub-heading-1": "hvorfor gestaltterapi?",
+    "sub-heading-2": "tjenester",
+    "sub-heading-3": "bestill time",
+    "sub-heading-4": "priser",
+    "sub-heading-5": "praktisk informasjon",
+    "sub-heading-6": "tema for samtale",
+    "sub-heading-7": "om meg",
+    "sub-heading-8": "klimakrisa"
+  },
+  "home": {
+    "page-title": "hjem",
+    "section-1": "Jeg har forsøkt å oversette \"fill in the blank\" på en måte som gir mening på norsk. \n“Fyll inn tomrommet” har ikke samme betydning, ettersom at “tomrom” ikke er et nøytralt begrep på norsk. \n\nSå hva er egentlig <strong>[ fillintheblank ]</strong>? \n\nSom gestaltterapeut gjenspeiler det fint hvordan metodikk, teori, og verdier informerer samtaleterapi i møte mellom meg som terapeut og du som klient. Det er klare rammer <strong>[ ]</strong> som legger til rette for samtalene, men oss to som fyller inn hva vi ønsker møtene skal handle om. Det er et rom der hva enn vi ønsker å bringe inn dit, skal bli holdt på en god og trygg måte. \n\n<strong>I Buddhismen</strong> <i>(som også informerer mitt verdigrunnlag og retningsgir hvordan jeg lever)</i> <strong>er mennesket og dens virkelighet holdt i et tomrom.</strong>",
+    "section-2": "Det er bevisstheten på <strong>“hvem vi blir”</strong> <strong>“hva vi tenker”</strong> og <strong>“hvordan vi handler”</strong> som gjør at vi ved hjelp av tilstedeværelse og bevissthetstrening kan gi slipp på lidelse og ta andre valg. Faktisk i sin essens ER vi tomrom, og alt annet dukker opp som midlertidige fenomen som kommer og går. \n\n<strong>[ ]</strong> blir tilstedeværelsen, og <strong>“tomrommet vi fyller”</strong> blir alle tanker, identiteter vi inntar og handlinger vi gjør. \n\n<strong>[ fillintheblank ]</strong> er dermed hva jeg tilbyr: som terapeut, konsulent og skribent. \n\nDu kan lese mer “<a href=\"https://www.fillintheblank.no/#/about-me\"><strong>om meg</strong></a>” her, eller “<a href=\"https://www.fillintheblank.no/#/contact-me\"><strong>ta kontakt</strong></a>” om du ønsker å ta en uformell samtale om fremtidig samarbeid eller konsultasjon. \n\nOm du ønsker å forespørre muligheten til å starte i samtaleterapi eller delta i en workshop hos meg, kan du gå til “<a href=\"https://www.fillintheblank.no/#/gestalt-therapy\"><strong>gestaltterapi</strong></a>”."
+  },
+  "gestalt-therapy": {
+    "page-title": "gestaltterapi",
+    "categories": [
+      {
+        "title": "hvorfor gestaltterapi?",
+        "image": "https://fillintheblank.no/img/dandelion-seeds.22680498.jpg",
+        "path": "why-gestalt-therapy"
+      },
+      {
+        "title": "tjenester",
+        "image": "https://fillintheblank.no/img/services-offered-banner.53cd8a61.jpg",
+        "path": "services-offered"
+      },
+      {
+        "title": "bestill time",
+        "image": "https://fillintheblank.no/img/book-session-banner.a895c5c8.jpg",
+        "path": "book-session"
+      },
+      {
+        "title": "priser",
+        "image": "https://fillintheblank.no/img/trees-for-autumn-colour.abc513d1.jpg",
+        "path": "prices"
+      },
+      {
+        "title": "praktisk informasjon",
+        "image": "https://fillintheblank.no/img/a-person-holding-maple-leaves.24dfcb81.jpg",
+        "path": "practical-info"
+      },
+      {
+        "title": "tema for samtale",
+        "image": "https://fillintheblank.no/img/multi-colorful-leaves.9a6658e9.jpg",
+        "path": "sample-topics"
+      }
+    ]
+  },
+  "why-gestalt-therapy": {
+    "page-title": "hvorfor gestaltterapi?",
+    "personal-view": "Jeg kan ikke si hvorfor det skulle være rett for deg - for det tenker jeg bare du kan vite og finne ut av.\n\nMen jeg kan kanskje dele hvorfor jeg føler det er rett for meg?\n\nDet som gjør at jeg som person kjenner meg mest komfortabel med å jobbe som terapeut innenfor gestaltterapi og den humanistiske psykologitradisjonen er at jeg ikke står i posisjon til å si at det er noe galt med deg. Og det bryter kanskje litt med hva du er vant med å høre når du møter noen i helsevesenet? ",
+    "intro-section": "Terapiretninger innenfor humanistisk psykologi (inkludert gestaltterapi) inngår ikke i dag under refusjonsordningen i Norge, og er derav ikke av de mest vanlige psykoterapiretningene i Norge. \n\nI enkelte land står derimot gestaltterapi fortsatt sterkt som en anerkjent og mye brukt terapibehandling. Og ser vi tilbake i historien, så var faktisk gestaltterapi, og andre terapiformer innenfor den humanistiske psykologien en av de mest brukte og anerkjente behandlingsformene. \n\nDen humanistiske psykologiretningen vokste seg fram til å bli en av de tre mest innflytelsesrike retningene innenfor psykologi i USA under 1950 og 1960-tallet. De tre retningene var atferdsterapi, tradisjonell freudiansk (og lignende) psykoterapi, og humanistisk psykologi. \n\nInnen begynnelsen av 1970-tallet var posisjonen til humanistisk psykologi sementert, og innehadde til og med presidentembetet i den største fagorganisasjonen i landet (president Abraham Maslow i American Psychological Association (APA). Andre sentrale figurer innen psykologiretningen var Carl Rogers, og Rollo May m.fl. Om du vil lese mer om dette kan du blant annet søke på “the third force in psychology” og “the humanistic approach”. \n\nHumanistisk psykologi kom som en protestbevegelse mot et helsevesen som umyndiggjorde og dikterte i stor grad hva de som søkte hjelp trengte, og videre som en større samfunnsmessig protestbevegelse i sin forlengelse. \n\nPrinsipper og talspersoner, aktivister, akademikere, fagpersoner m.fl tilknyttet humanistisk psykologi hadde stor innvirkning på samfunnet og politikken som helhet, noe vi så blant annet under bevegelsene på 60- og 70-tallet for kvinners, ikke-hvite og skeives rettigheter, samt anti-krigs- og anti-kapitalistiske bevegelser. \n\nI fokus sto verdier som likeverd, frihet, rettferdighet, og respekt -  også verdier man fant igjen i fundamentet av den humanistiske psykologiretningen. \n\nHumanistisk psykologi setter fokus på kreativitet, fri vilje og det fulle potensiale ved mennesket. Du vil også finne filosofiske retninger som eksistensialisme nært tilknyttet teoriene og forskningen som ble produsert innenfor den humanistiske psykologitradisjonen. \n\nMer spesifikt innenfor den humanistisk kliniske arbeidet (det faktiske møtet mellom terapeut og klient) ser man dette fokuset igjen på likeverd og frihet der klienten har en udiskutabel rett til å sette agendaen for hva som skal foregå. Dette betyr at terpeuten aldri skal være i posisjon til å definere ut fra bedre viten enn klienten. Klienten er alltid den enerådende eksperten på seg selv. Vi gjør ting sammen, med et minimum av fordommer, og et ønske om at den andre skal ha det vel. \n\nDet er derfor jeg kjenner meg mest komfortabel med å jobbe som terapeut innenfor den humanistiske psykologitradisjonen. \n\nDet er i utgangspunktet ikke noe galt med deg, og jeg er kun her for å støtte deg i det du står i. Jeg stoler på at det er langt mer “rett” enn “galt” med deg, og at du med nok støtte og varhet/ tilstedeværelse kan regulere deg selv. Denne selvreguleringen kan da skje gjennom den nye innsikten du får i samtaleterapi, og valgene du tar fremover.\n\nI segmentet nedenfor kan du her lese hva Norsk gestaltinstitutt Høyskole skriver om hva gestaltterapi er.",
+    "page-title-2": "Hva er gestaltterapi? [ Fra Norsk gestaltinstitutt Høyskole AS’ hjemmesider ]",
+    "page-sub-title-1": "Grunnleggende ideer",
+    "section-1": "De grunnleggende ideer i gestaltterapi er at hvert menneske selv er ansvarlig for sine valg og handlinger innenfor de begrensninger omgivelsene gir. Gestaltterapi har utviklet metoder for å bevisstgjøre mennesker på egne følelser, reaksjoner og handlinger slik at de tydeligere kan erkjenne og se seg selv og sine valg. Denne bevisstgjøringen skapes gjennom samtale, eksperimenter og rollespill. Metodene brukes også til bearbeidelse av tidligere, uferdige opplevelser (som blir kalt uavsluttede gestalter), kriser og i egenutvikling.\n\nGestaltterapi bygger på den tro at økt erkjennelse om seg selv skjer i øyeblikket, i situasjoner der klient og terapeut møtes. Det kan ikke planlegges inn i fremtiden, men kommer spontant i arbeidet mellom klient og terapeut.",
+    "page-sub-title-2": "Terapeutens rolle",
+    "section-2": "Et av de viktigste redskapene i gestaltterapi er derfor terapeuten selv. Terapeuten er ikke objektiv eller nøytral, men er selv villig til å gå klienten i møte i et JEG – DU forhold. Dette betyr at det er viktig for terapeuten å bearbeide egne uferdige opplevelser for å kunne være tilgjengelig for det klienten trenger i situasjonen som oppstår. Gestaltterapi er derfor en opplevelsesorientert, prosessorientert og eksperimentell psykoterapi.",
+    "page-sub-title-3": "Hvem egner gestaltterapi seg for?",
+    "section-3": "Gestaltterapi egner seg både for individual-, par- og gruppeterapi, egenutvikling, i undervisning, ledelse, organisasjonsarbeide og i konsulentarbeid. Klienter, studenter og kursdeltakere får selv erfare hvordan de er i møte med andre.\n\nGestaltterapi er ingen lettvint eller hurtig «kur». Det kan være smertefullt og vondt å gjenoppleve tidligere episoder i livet, erkjenne seg selv der en er i livet, se egne begrensninger og ta valg. Det kan også være berikende, meningsfullt og inspirerende. Gestaltterapi er en terapeutisk retning som har spredning over hele verden, og er en av de mest utbredte psykoterapeutiske retninger i dag. Gestaltterapi har også fått en solid forankring innen næringsliv, bedriftsledelse, bedriftsrådgivning og alle former for opplæring.",
+    "page-sub-title-4": "Informasjonsfilmer om gestaltterapi",
+    "section-4": "NGI (Norsk Gestaltinstitutt Høyskole) og NGF (Norsk gestaltterapeut forening) har i samarbeid med NRK laget en film om det å utdanne seg til, og det å arbeide som Gestaltterapeut.\n\nFilmen er produsert i 2018 og sendes på NRK som en del av serien ’Mitt yrke’, og ligger også på <a href=\"https://www.nrk.no/\" target=\"_blank\">nrk.no</a> og utdanningsetatens hjemmeside <a href=\"https://www.utdanning.no/\" target=\"_blank\">utdanning.no</a> \n\nUnder finner du også en film fra 2014 i regi av NGF:"
+  },
+  "services-offered": {
+    "page-title": "tjenester",
+    "services-offered-list": [
+      {
+        "title": "Individuell samtale",
+        "section": "I individualterapi møter du meg som terapeut i en 1-til-1-relasjon. \nEn individualtime varer vanligvis 50 minutter. Du kan også avtale lengre tid på 90 minutter. \n\nDu bestemmer selv hvor hyppig du skal komme i terapi og hvor mange timer du skal ha, men dette er noe vi kan finne ut av sammen i et tidlig forløp av terapiforløpet, og underveis etter behov. \n\nEksempel på tema som kan tas opp i individuell terapi kan du lese mer om her: <a href=\"https://www.fillintheblank.no/#/sample-topics\">tema for samtale.</a> Jeg tilbyr individuell terapi i ordinært terapilokale og digitalt."
+      },
+      {
+        "title": "Relasjonsterapi",
+        "section": "Relasjonsterapi er samtaler der jeg som terapeut møter dere som er i en relasjon. Dette kan for eksempel være to familiemedlemmer, venner, kollegaer, eller par/ partnere/ ektefeller. \n\n Det å være i en relasjon kan være utfordrende, især hvis man opplever at kommunikasjonen går i stå, eller at selve forholdet i seg selv ikke lenger er slik man ønsker. \n\nI terapi med meg som gestaltterapeut vil vi sammen se på hvordan dere er sammen her og nå, utforske hva som kjennes som utfordrende, og se om det finnes måter dere kan gjøre det annerledes. \n\nDet å inkludere en terapeut sammen med dere kan kjennes sårbart, og jeg vil bruke god og nok tid til at dere vil kjenne dere trygge til å inkludere meg i situasjonene dere skaper sammen som føles utfordrende. \n\nDet trenger ikke bare være kommunikasjon i seg selv som er utfordrende. Noen ganger kan det være gitte hendelser som gjør at dere sammen kan ha nytte med å jobbe dere videre fra en hendelse som har skapt uro, usikkerhet, eller sorg. Dette kan være tillitsbrudd, dødsfall, ulykker, sykdom, eller lignende.\n\nRelasjonsterapi varer vanligvis 90 minutter. Du kan også avtale lengre tid på 120 minutter. \n\nDere bestemmer selv hvor hyppig du skal komme i terapi og hvor mange timer dere skal ha, men dette er noe vi kan finne ut av sammen i et tidlig forløp av terapiforløpet, og underveis etter behov. \n\nEksempel på tema som kan tas opp i relasjonsterapi kan du lese mer om her: <a href=\"https://www.fillintheblank.no/#/sample-topics\">tema for samtale.</a> Jeg tilbyr relasjonsterapi i ordinært terapilokale."
+      },
+      {
+        "title": "Gruppeterapi",
+        "section": "Gruppeterapi er samtaler der jeg som terapeut møter en gruppe som ønsker å snakke om tema som de har felles utfordringer med. Eksempel på tema som kan tas opp i gruppeterapi kan du lese mer om her: <a href=\"https://www.fillintheblank.no/#/sample-topics\">tema for samtale.</a> Tanken om gruppeterapi er at det kan være til stor nytte å både lytte og dele historier og erfaringer om et felles tema eller et sett felles utfordringer. \n\nGruppeterapi varer vanligvis fra 90 til 180 minutter (halvannen til tre timer). \n\nGruppeterapi kan enten gå i fast intervall over en ubestemt periode (fast), eller en avgrenset periode (for eksempel en høst, vinter, eller vår) over en bestemt antall datoer (f.eks. 5 - 8 ganger). \n\nPåmelding til gruppeterapi er vanligvis bindende og oppmøte er sterkt oppfordret, selv om det ikke er obligatorisk. Ofte kan det være nettopp de gangene du kjenner motstand mot å komme i gruppesamtale at du kan ha mest utbytte. \n\nDet er mitt ansvar som terapeut og fasilitator av gruppesamtalene at feltet vi sammen skaper kjennes trygt, og at du kan komme fra samtalene med en styrket følelse av hvem du er og hva du derav trenger for å gå videre. \n\nAlt som deles i gruppeterapi er taushetsbelagt, og alle deltakere vil måtte lese, forstå, og skrive under på en taushetserklæring før forløpet av gruppesamtalene starter. \n\nJeg tilbyr gruppeterapi i ordinært terapilokale."
+      },
+      {
+        "title": "Workshops",
+        "section": "Er i likhet med gruppeterapi en samling av flere mennesker som snakker og eksperimenterer rundt et felles tema eller en felles utfordring. \n\nI workshops vil du derimot i tillegg kunne få “hjemmelekser” i form av artikler eller kapitler til gjennomlesing som danner grunnlag for samtalen etter. Workshops vil dessuten alltid ha en oppstartsdato og en sluttdato. \n\nJeg tilbyr workshops i ordinært terapilokale, i andre omgivelser og lokaler, samt digitalt. \n\nKommende workshops kan du lese mer om her: <a href=\"https://www.fillintheblank.no/#/sample-topics\">tema for samtale.</a> KOMMER: Den økologiske krisa - naturvandring og workshop."
+      }
+    ]
+  },
+  "book-session": {
+    "page-title": "bestill time",
+    "section": "Om du er interessert i å starte opp med gestaltterapi eller delta i en workshop må du gjerne sende en uformell og kort henvendelse til meg, så tar jeg kontakt med deg pr. telefon eller e-post innen 24 timer. \n\nFor å bestille time sender du en e-post direkte til <a href=\"mailto:fillblank@protonmail.com\">fillblank@protonmail.com</a>. \n\nI e-posten trenger jeg denne informasjonen:",
+    "first-name": "Fornavn",
+    "last-name": "Etternavn",
+    "e-mail": "E-post",
+    "phone": "Telefonnummer",
+    "interested-service": "Hvilken tjeneste er du interessert i? [Individuell Samtale, Relasjonsterapi, Gruppeterapi,  Workshops]",
+    "request": "Beskjed/spørsmål/forespørsel [vennligst ikke skriv inn personsensitiv informasjon]",
+    "note": "Du kan også ringe meg direkte på 466 767 23."
+  },
+  "prices": {
+    "page-title": "priser",
+    "column-1-title": "Type tjeneste",
+    "column-2-title": "Berammet tid",
+    "column-3-title": "Pris",
+    "prices-table": [
+      {
+        "service": "Individualterapi",
+        "time_allocated": "50 min",
+        "price": "kr. 900,- <br/ >kr. 650,- (lav inntekt)"
+      },
+      {
+        "service": "Individualterapi",
+        "time_allocated": "90 min",
+        "price": "kr. 1500,- <br/ > kr. 1000,- (lav inntekt)"
+      },
+      {
+        "service": "Relasjonsterapi",
+        "time_allocated": "90 min",
+        "price": "kr. 1900,- <br/ > kr. 1200,- (lav inntekt)"
+      },
+      {
+        "service": "Relasjonsterapi",
+        "time_allocated": "120 min",
+        "price": "kr. 2250,- <br/ > kr. 1500,- (lav inntekt)"
+      },
+      {
+        "service": "Gruppeterapi",
+        "time_allocated": "90 - 180 min",
+        "price": "Etter avtale."
+      }
+    ],
+    "page-sub-title-1": "Generelt om betaling og avbestilling",
+    "section-1": "Betaling skjer ved etterskuddsvis faktuering, og med betalingsfrist på 14 dager. \n\nDersom du må avbestille en time, ber jeg om at du gjør det så tidlig som mulig og senest innen 24 timer før avtalt time. Avbestilling senere enn 24 timer før avtalt tid eller manglende oppmøte uten melding blir fakturert som full time. \n\nGestaltterapi inngår pr. i dag ikke i helserefusjonsordningen."
+  },
+  "practical-info": {
+    "page-title": "praktisk informasjon",
+    "removed-section-from-list": [
+      {
+        "title": "Kvalitetssikring",
+        "section": "Jeg er medlem av, og varamedlem i styret i <a href=\"https://ngfo.no/\" target=\"_blank\">Norsk Gestaltterapeutforening</a> (NGF). Terapeuter som er medlem i NGF bruker MNGF etter tittelen. Dette betyr at de møter faglige og etiske kriteria. \n\nGestaltterapeuter, MNGF, har i dag et minste krav om en 4-årig EAGT-akkreditert utdanning etter fullført Bachelorgrad; en klage- og forsikringsordning, strenge krav til faglig oppdatering, veiledning og dokumentasjon. Du kan gå til <a href=\"https://ngfo.no/\" target=\"_blank\">Norsk Gestaltterapeutforening</a> (NGF) nettside for å lese mer om kvalitetssikring av vår terapeutiske praksis. \n\nNorsk Gestaltterapeutforening (NGF) er fagorganisasjonen for gestaltterapeuter i Norge og er tilknyttet Norsk Forbund for Psykoterapi (NFP), European Association for Psychotherapy (EAP) og European Association for Gestalt Therapy (EAGT)."
+      }
+    ],
+    "practical-info-list": [
+      {
+        "title": "Første timen - det å gå i samtaleterapi",
+        "section": "Første timen er det helt normalt å være litt nervøs. Det å snakke om personlige ting med en terapeut kan være uvant for noen, og vil for alle være avhengig av tillit. \n\nFørste timen vil vi bruke litt tid på å bli kjent. Jeg vil gjerne høre litt mer om hvem du er og hva som gjør at du trenger å snakke, og om kanskje du har noen mål tilknyttet til, eller ønsker om samtaleterapien. \n\nOg så lurer du sikkert på hvem jeg er, og om jeg er noen du kan se for deg å møte flere ganger. Om du går til <a href=\"https://www.fillintheblank.no/#/sample-topics\">\"tema for samtale\"</a> og <a href=\"https://www.fillintheblank.no/#/about-me\">\"om meg\"</a> så vil du kanskje få et lite inntrykk om hvem jeg er og hvilke tanker jeg har om gestaltterapi. \n\nVi vil i første time også gå gjennom hvilke rettigheter du har, og pliktene vi som gestaltterapeuter er underlagt hva gjelder behandling av personopplysninger. \n\nJeg som terapeut har taushetsplikt. Ingen andre enn du og terapeuten får vite at du er i terapi hos meg. Vær imidlertid oppmerksom på at jeg som terapeut kan bryte taushetsplikten dersom jeg får vite om",
+        "break-duty-reasons": [
+          "Planlagte straffbare handlinger.",
+          "Barn som blir utsatt for vold eller omsorgssvikt.",
+          "Reell risiko for selvmord."
         ]
-    },
-    "why-gestalt-therapy": {
-        "page-title": "hvorfor gestaltterapi?",
-        "personal-view": "Jeg kan ikke si hvorfor det skulle være rett for deg - for det tenker jeg bare du kan vite og finne ut av.\n\nMen jeg kan kanskje dele hvorfor jeg føler det er rett for meg?\n\nDet som gjør at jeg som person kjenner meg mest komfortabel med å jobbe som terapeut innenfor gestaltterapi og den humanistiske psykologitradisjonen er at jeg ikke står i posisjon til å si at det er noe galt med deg. Og det bryter kanskje litt med hva du er vant med å høre når du møter noen i helsevesenet? ",
-        "intro-section": "Terapiretninger innenfor humanistisk psykologi (inkludert gestaltterapi) inngår ikke i dag under refusjonsordningen i Norge, og er derav ikke av de mest vanlige psykoterapiretningene i Norge. \n\nI enkelte land står derimot gestaltterapi fortsatt sterkt som en anerkjent og mye brukt terapibehandling. Og ser vi tilbake i historien, så var faktisk gestaltterapi, og andre terapiformer innenfor den humanistiske psykologien en av de mest brukte og anerkjente behandlingsformene. \n\nDen humanistiske psykologiretningen vokste seg fram til å bli en av de tre mest innflytelsesrike retningene innenfor psykologi i USA under 1950 og 1960-tallet. De tre retningene var atferdsterapi, tradisjonell freudiansk (og lignende) psykoterapi, og humanistisk psykologi. \n\nInnen begynnelsen av 1970-tallet var posisjonen til humanistisk psykologi sementert, og innehadde til og med presidentembetet i den største fagorganisasjonen i landet (president Abraham Maslow i American Psychological Association (APA). Andre sentrale figurer innen psykologiretningen var Carl Rogers, og Rollo May m.fl. Om du vil lese mer om dette kan du blant annet søke på “the third force in psychology” og “the humanistic approach”. \n\nHumanistisk psykologi kom som en protestbevegelse mot et helsevesen som umyndiggjorde og dikterte i stor grad hva de som søkte hjelp trengte, og videre som en større samfunnsmessig protestbevegelse i sin forlengelse. \n\nPrinsipper og talspersoner, aktivister, akademikere, fagpersoner m.fl tilknyttet humanistisk psykologi hadde stor innvirkning på samfunnet og politikken som helhet, noe vi så blant annet under bevegelsene på 60- og 70-tallet for kvinners, ikke-hvite og skeives rettigheter, samt anti-krigs- og anti-kapitalistiske bevegelser. \n\nI fokus sto verdier som likeverd, frihet, rettferdighet, og respekt -  også verdier man fant igjen i fundamentet av den humanistiske psykologiretningen. \n\nHumanistisk psykologi setter fokus på kreativitet, fri vilje og det fulle potensiale ved mennesket. Du vil også finne filosofiske retninger som eksistensialisme nært tilknyttet teoriene og forskningen som ble produsert innenfor den humanistiske psykologitradisjonen. \n\nMer spesifikt innenfor den humanistisk kliniske arbeidet (det faktiske møtet mellom terapeut og klient) ser man dette fokuset igjen på likeverd og frihet der klienten har en udiskutabel rett til å sette agendaen for hva som skal foregå. Dette betyr at terpeuten aldri skal være i posisjon til å definere ut fra bedre viten enn klienten. Klienten er alltid den enerådende eksperten på seg selv. Vi gjør ting sammen, med et minimum av fordommer, og et ønske om at den andre skal ha det vel. \n\nDet er derfor jeg kjenner meg mest komfortabel med å jobbe som terapeut innenfor den humanistiske psykologitradisjonen. \n\nDet er i utgangspunktet ikke noe galt med deg, og jeg er kun her for å støtte deg i det du står i. Jeg stoler på at det er langt mer “rett” enn “galt” med deg, og at du med nok støtte og varhet/ tilstedeværelse kan regulere deg selv. Denne selvreguleringen kan da skje gjennom den nye innsikten du får i samtaleterapi, og valgene du tar fremover.\n\nI segmentet nedenfor kan du her lese hva Norsk gestaltinstitutt Høyskole skriver om hva gestaltterapi er.",
-        "page-title-2": "Hva er gestaltterapi? [ Fra Norsk gestaltinstitutt Høyskole AS’ hjemmesider ]",
-        "page-sub-title-1": "Grunnleggende ideer",
-        "section-1": "De grunnleggende ideer i gestaltterapi er at hvert menneske selv er ansvarlig for sine valg og handlinger innenfor de begrensninger omgivelsene gir. Gestaltterapi har utviklet metoder for å bevisstgjøre mennesker på egne følelser, reaksjoner og handlinger slik at de tydeligere kan erkjenne og se seg selv og sine valg. Denne bevisstgjøringen skapes gjennom samtale, eksperimenter og rollespill. Metodene brukes også til bearbeidelse av tidligere, uferdige opplevelser (som blir kalt uavsluttede gestalter), kriser og i egenutvikling.\n\nGestaltterapi bygger på den tro at økt erkjennelse om seg selv skjer i øyeblikket, i situasjoner der klient og terapeut møtes. Det kan ikke planlegges inn i fremtiden, men kommer spontant i arbeidet mellom klient og terapeut.",
-        "page-sub-title-2": "Terapeutens rolle",
-        "section-2": "Et av de viktigste redskapene i gestaltterapi er derfor terapeuten selv. Terapeuten er ikke objektiv eller nøytral, men er selv villig til å gå klienten i møte i et JEG – DU forhold. Dette betyr at det er viktig for terapeuten å bearbeide egne uferdige opplevelser for å kunne være tilgjengelig for det klienten trenger i situasjonen som oppstår. Gestaltterapi er derfor en opplevelsesorientert, prosessorientert og eksperimentell psykoterapi.",
-        "page-sub-title-3": "Hvem egner gestaltterapi seg for?",
-        "section-3": "Gestaltterapi egner seg både for individual-, par- og gruppeterapi, egenutvikling, i undervisning, ledelse, organisasjonsarbeide og i konsulentarbeid. Klienter, studenter og kursdeltakere får selv erfare hvordan de er i møte med andre.\n\nGestaltterapi er ingen lettvint eller hurtig «kur». Det kan være smertefullt og vondt å gjenoppleve tidligere episoder i livet, erkjenne seg selv der en er i livet, se egne begrensninger og ta valg. Det kan også være berikende, meningsfullt og inspirerende. Gestaltterapi er en terapeutisk retning som har spredning over hele verden, og er en av de mest utbredte psykoterapeutiske retninger i dag. Gestaltterapi har også fått en solid forankring innen næringsliv, bedriftsledelse, bedriftsrådgivning og alle former for opplæring.",
-        "page-sub-title-4": "Informasjonsfilmer om gestaltterapi",
-        "section-4": "NGI (Norsk Gestaltinstitutt Høyskole) og NGF (Norsk gestaltterapeut forening) har i samarbeid med NRK laget en film om det å utdanne seg til, og det å arbeide som Gestaltterapeut.\n\nFilmen er produsert i 2018 og sendes på NRK som en del av serien ’Mitt yrke’, og ligger også på <a href=\"https://www.nrk.no/\" target=\"_blank\">nrk.no</a> og utdanningsetatens hjemmeside <a href=\"https://www.utdanning.no/\" target=\"_blank\">utdanning.no</a> \n\nUnder finner du også en film fra 2014 i regi av NGF:"
-    },
-    "services-offered": {
-        "page-title": "tjenester",
-        "services-offered-list": [
-            {
-                "title": "Individuell samtale",
-                "section": "I individualterapi møter du meg som terapeut i en 1-til-1-relasjon. \nEn individualtime varer vanligvis 50 minutter. Du kan også avtale lengre tid på 90 minutter. \n\nDu bestemmer selv hvor hyppig du skal komme i terapi og hvor mange timer du skal ha, men dette er noe vi kan finne ut av sammen i et tidlig forløp av terapiforløpet, og underveis etter behov. \n\nEksempel på tema som kan tas opp i individuell terapi kan du lese mer om her: <a href=\"https://www.fillintheblank.no/#/sample-topics\">tema for samtale.</a> Jeg tilbyr individuell terapi i ordinært terapilokale og digitalt."
-            },
-            {
-                "title": "Relasjonsterapi",
-                "section": "Relasjonsterapi er samtaler der jeg som terapeut møter dere som er i en relasjon. Dette kan for eksempel være to familiemedlemmer, venner, kollegaer, eller par/ partnere/ ektefeller. \n\n Det å være i en relasjon kan være utfordrende, især hvis man opplever at kommunikasjonen går i stå, eller at selve forholdet i seg selv ikke lenger er slik man ønsker. \n\nI terapi med meg som gestaltterapeut vil vi sammen se på hvordan dere er sammen her og nå, utforske hva som kjennes som utfordrende, og se om det finnes måter dere kan gjøre det annerledes. \n\nDet å inkludere en terapeut sammen med dere kan kjennes sårbart, og jeg vil bruke god og nok tid til at dere vil kjenne dere trygge til å inkludere meg i situasjonene dere skaper sammen som føles utfordrende. \n\nDet trenger ikke bare være kommunikasjon i seg selv som er utfordrende. Noen ganger kan det være gitte hendelser som gjør at dere sammen kan ha nytte med å jobbe dere videre fra en hendelse som har skapt uro, usikkerhet, eller sorg. Dette kan være tillitsbrudd, dødsfall, ulykker, sykdom, eller lignende.\n\nRelasjonsterapi varer vanligvis 90 minutter. Du kan også avtale lengre tid på 120 minutter. \n\nDere bestemmer selv hvor hyppig du skal komme i terapi og hvor mange timer dere skal ha, men dette er noe vi kan finne ut av sammen i et tidlig forløp av terapiforløpet, og underveis etter behov. \n\nEksempel på tema som kan tas opp i relasjonsterapi kan du lese mer om her: <a href=\"https://www.fillintheblank.no/#/sample-topics\">tema for samtale.</a> Jeg tilbyr relasjonsterapi i ordinært terapilokale."
-            },
-            {
-                "title": "Gruppeterapi",
-                "section": "Gruppeterapi er samtaler der jeg som terapeut møter en gruppe som ønsker å snakke om tema som de har felles utfordringer med. Eksempel på tema som kan tas opp i gruppeterapi kan du lese mer om her: <a href=\"https://www.fillintheblank.no/#/sample-topics\">tema for samtale.</a> Tanken om gruppeterapi er at det kan være til stor nytte å både lytte og dele historier og erfaringer om et felles tema eller et sett felles utfordringer. \n\nGruppeterapi varer vanligvis fra 90 til 180 minutter (halvannen til tre timer). \n\nGruppeterapi kan enten gå i fast intervall over en ubestemt periode (fast), eller en avgrenset periode (for eksempel en høst, vinter, eller vår) over en bestemt antall datoer (f.eks. 5 - 8 ganger). \n\nPåmelding til gruppeterapi er vanligvis bindende og oppmøte er sterkt oppfordret, selv om det ikke er obligatorisk. Ofte kan det være nettopp de gangene du kjenner motstand mot å komme i gruppesamtale at du kan ha mest utbytte. \n\nDet er mitt ansvar som terapeut og fasilitator av gruppesamtalene at feltet vi sammen skaper kjennes trygt, og at du kan komme fra samtalene med en styrket følelse av hvem du er og hva du derav trenger for å gå videre. \n\nAlt som deles i gruppeterapi er taushetsbelagt, og alle deltakere vil måtte lese, forstå, og skrive under på en taushetserklæring før forløpet av gruppesamtalene starter. \n\nJeg tilbyr gruppeterapi i ordinært terapilokale."
-            },
-            {
-                "title": "Workshops",
-                "section": "Er i likhet med gruppeterapi en samling av flere mennesker som snakker og eksperimenterer rundt et felles tema eller en felles utfordring. \n\nI workshops vil du derimot i tillegg kunne få “hjemmelekser” i form av artikler eller kapitler til gjennomlesing som danner grunnlag for samtalen etter. Workshops vil dessuten alltid ha en oppstartsdato og en sluttdato. \n\nJeg tilbyr workshops i ordinært terapilokale, i andre omgivelser og lokaler, samt digitalt. \n\nKommende workshops kan du lese mer om her: <a href=\"https://www.fillintheblank.no/#/sample-topics\">tema for samtale.</a> KOMMER: Den økologiske krisa - naturvandring og workshop."
-            }
-        ]
-    },
-    "book-session": {
-        "page-title": "bestill time",
-        "section": "Om du er interessert i å starte opp med gestaltterapi eller delta i en workshop må du gjerne sende en uformell og kort henvendelse til meg, så tar jeg kontakt med deg pr. telefon eller e-post innen 24 timer. \n\nFor å bestille time sender du en e-post direkte til <a href=\"mailto:fillblank@protonmail.com\">fillblank@protonmail.com</a>. \n\nI e-posten trenger jeg denne informasjonen:",
-        "first-name": "Fornavn",
-        "last-name": "Etternavn",
-        "e-mail": "E-post",
-        "phone": "Telefonnummer",
-        "interested-service": "Hvilken tjeneste er du interessert i? [Individuell Samtale, Relasjonsterapi, Gruppeterapi,  Workshops]",
-        "request": "Beskjed/spørsmål/forespørsel [vennligst ikke skriv inn personsensitiv informasjon]",
-        "note": "Du kan også ringe meg direkte på 466 767 23."
-    },
-    "prices": {
-        "page-title": "priser",
-        "column-1-title": "Type tjeneste",
-        "column-2-title": "Berammet tid",
-        "column-3-title": "Pris",
-        "prices-table": [
-            {
-                "service": "Individualterapi",
-                "time_allocated": "50 min",
-                "price": "kr. 900,- <br/ >kr. 650,- (lav inntekt)"
-            },
-            {
-                "service": "Individualterapi",
-                "time_allocated": "90 min",
-                "price": "kr. 1500,- <br/ > kr. 1000,- (lav inntekt)"
-            },
-            {
-                "service": "Relasjonsterapi",
-                "time_allocated": "90 min",
-                "price": "kr. 1900,- <br/ > kr. 1200,- (lav inntekt)"
-            },
-            {
-                "service": "Relasjonsterapi",
-                "time_allocated": "120 min",
-                "price": "kr. 2250,- <br/ > kr. 1500,- (lav inntekt)"
-            },
-            {
-                "service": "Gruppeterapi",
-                "time_allocated": "90 - 180 min",
-                "price": "Etter avtale."
-            }
-        ],
-        "page-sub-title-1": "Generelt om betaling og avbestilling",
-        "section-1": "Betaling skjer ved etterskuddsvis faktuering, og med betalingsfrist på 14 dager. \n\nDersom du må avbestille en time, ber jeg om at du gjør det så tidlig som mulig og senest innen 24 timer før avtalt time. Avbestilling senere enn 24 timer før avtalt tid eller manglende oppmøte uten melding blir fakturert som full time. \n\nGestaltterapi inngår pr. i dag ikke i helserefusjonsordningen."
-    },
-    "practical-info": {
-        "page-title": "praktisk informasjon",
-        "practical-info-list": [
-            {
-                "title": "Første timen - det å gå i samtaleterapi",
-                "section": "Første timen er det helt normalt å være litt nervøs. Det å snakke om personlige ting med en terapeut kan være uvant for noen, og vil for alle være avhengig av tillit. \n\nFørste timen vil vi bruke litt tid på å bli kjent. Jeg vil gjerne høre litt mer om hvem du er og hva som gjør at du trenger å snakke, og om kanskje du har noen mål tilknyttet til, eller ønsker om samtaleterapien. \n\nOg så lurer du sikkert på hvem jeg er, og om jeg er noen du kan se for deg å møte flere ganger. Om du går til <a href=\"https://www.fillintheblank.no/#/sample-topics\">\"tema for samtale\"</a> og <a href=\"https://www.fillintheblank.no/#/about-me\">\"om meg\"</a> så vil du kanskje få et lite inntrykk om hvem jeg er og hvilke tanker jeg har om gestaltterapi. \n\nVi vil i første time også gå gjennom hvilke rettigheter du har, og pliktene vi som gestaltterapeuter er underlagt hva gjelder behandling av personopplysninger. \n\nJeg som terapeut har taushetsplikt. Ingen andre enn du og terapeuten får vite at du er i terapi hos meg. Vær imidlertid oppmerksom på at jeg som terapeut kan bryte taushetsplikten dersom jeg får vite om",
-                "break-duty-reasons": [
-                    "Planlagte straffbare handlinger.",
-                    "Barn som blir utsatt for vold eller omsorgssvikt.",
-                    "Reell risiko for selvmord."
-                ]
-            },
-            {
-                "title": "Brukermedvirkning",
-                "section": "Det er viktig for meg som terapeut at du kjenner deg ivaretatt og sett.\n\nNoen ganger kan det være tematikk som er vanskelig å ta opp ansikt til ansikt, eller som er så \"selvfølgelig\" at det rett og slett aldri blir tema under samtale.\n\nJeg tilbyr alle mine klienter muligheten til å svare ut et kartleggingsverktøy kalt Norse Feedback i forkant av første samtale. Kartleggingsverktøyet kan også støtte oss å holde oversikt over hvordan du har det i den tiden du går hos meg som gestaltterapeut.\n\nNår du svarer på Norse Feedback vil du bli stilt spørsmål om søvn, forhold til mat, om du kjenner deg nedfor og/eller engstelig, om du har ressurser rundt deg i form av venner/familie og gode boforhold etc.\n\nI tillegg kan du etter andre gangs kartlegging gi direkte tilbakemelding til meg som terapeut om du føler deg sett og forstått, og hva du gjerne vil ha mer eller mindre av i hvordan vi jobber sammen. Tanken er at dette skal styrke ditt bidrag og din medvirkning inn i terapiforløpet, og sikre at du får en god, trygg og effektiv samhandling sammen med meg som terapeut.\n\nDet er frivillig å fylle ut Norse Feedback og du vil bli forespurt i forkant av første samtale om du kan tenke deg å fylle ut kartleggingen.\n\nDet du svarer på vil selvsagt være innenfor trygge rammer og ingen andre enn oss to vil ha innsikt i svarene du gir.\n\nDu kan sjekke ut videoen nedenfor for å lære mer om Norse Feedback sitt kartleggingsverktøy: <a href=\"https://www.norsefeedback.no/helsepersonell/\" target=\"_blank\">norsefeedback.no/helsepersonell</a>"
-            },
-            {
-                "title": "Kvalitetssikring",
-                "section": "Jeg er medlem av, og varamedlem i styret i <a href=\"https://ngfo.no/\" target=\"_blank\">Norsk Gestaltterapeutforening</a> (NGF). Terapeuter som er medlem i NGF bruker MNGF etter tittelen. Dette betyr at de møter faglige og etiske kriteria. \n\nGestaltterapeuter, MNGF, har i dag et minste krav om en 4-årig EAGT-akkreditert utdanning etter fullført Bachelorgrad; en klage- og forsikringsordning, strenge krav til faglig oppdatering, veiledning og dokumentasjon. Du kan gå til <a href=\"https://ngfo.no/\" target=\"_blank\">Norsk Gestaltterapeutforening</a> (NGF) nettside for å lese mer om kvalitetssikring av vår terapeutiske praksis. \n\nNorsk Gestaltterapeutforening (NGF) er fagorganisasjonen for gestaltterapeuter i Norge og er tilknyttet Norsk Forbund for Psykoterapi (NFP), European Association for Psychotherapy (EAP) og European Association for Gestalt Therapy (EAGT)."
-            },
-            {
-                "title": "Generelt om betaling og avbestilling",
-                "section": "Betaling skjer ved etterskuddsvis faktuering, og med betalingsfrist på 14 dager. \n\nDersom du må avbestille en time, ber jeg om at du gjør det så tidlig som mulig og senest innen 24 timer før avtalt time. Avbestilling senere enn 24 timer før avtalt tid eller manglende oppmøte uten melding blir fakturert som full time. \n\nGestaltterapi inngår pr. i dag ikke i helserefusjonsordningen."
-            }
-        ]
-    },
-    "sample-topics": {
-        "page-title": "tema for samtale",
-        "section": "I samtaleterapi kan hva som helst komme opp. Og noen ganger ingenting. Min rolle og intensjon som gestaltterapeut (og ikke minst som menneske) er å møte deg slik du er - der du er. \n\n<i><strong>Jeg har her skrevet litt om et par typiske tema som har kommet opp i tiden jeg har jobbet som gestaltterapeut.</strong></i> \n\nMen ikke ta dette som en oppskrift på hvordan samtalen oss i mellom skal skje, eller hva vi kommer til å snakke om. Det er du som vet hva du vil snakke om, og du og jeg som kommer fram til hva som skal skje under selve samtalen. \n\n<i><strong>Du kan lese tekstene under som en måte å bli kjent med meg som terapeut.</strong></i>",
-        "topics-blocks": [
-            {
-                "topic_title": "Sorg/Tap",
-                "topic_content": "Hva mer kan man si når alt har falt bort? \n\nNår jeg tenker på bunnløs sorg kommer Bjørk’s video av Black Lake opp på netthinnen. I flere segmenter av sangen stopper sangen helt opp, og Bjørk gestikulerer med hele seg at ingen ord kommer ut. Hun faller til kness. Du hører lyden av repetativ duving fra fioliner. Hun uttrykker det som ikke lar seg uttrykke med ord. \n\nNår sorgen dominerer alt, hvordan føles det da? Og har du noen der som kan holde deg i hånden når det skjer? \n\nDet kan være vanskelig å dele en slik sorg med sine nærmeste. Kanskje var det nettopp den som sto deg nærmest som ble borte, eller kanskje dine nærmeste også går gjennom sin egen sorgprosess. \n\nNoen ganger kan det bli for overveldende å snakke med de som står deg nær om sorgen du bærer. \n\nMen sorg trenger heller ikke være lammende en den forstand at du mister stemme eller handlekraft. Sorg kan også kjennes som en svak men vedvarende bakgrunnstøy som legger en gråfarge som virker umulig å komme unna. Og da er det også der sorgen kan møtes. \n\nSorg kan gjelde det å miste noe du hadde fra før, som helse, ungdom, eller rett og slett det at du blir eldre og kommer stadig nærmere et statistisk levd liv. Sorgen over det som aldri ble prøvd ut, eller det du ikke lenger kan gjøre nå pga. helse/ alder/ økonomi osv. \n\nSom terapeut vil jeg være med deg i sorgen. Puste med deg når det kjennes ut som det ikke går an å puste mer. Sammen oppleve at sorg alltid kommer i bølger. \n\nSorg i seg selv er en naturlig reaksjon på tap. Sorg som følelse har ingen andre behov enn å bli møtt, og trenger kun å bli holdt og akseptert for at heling skal skje. \n\n I gestaltteorien nevnes et prinsipp om <strong>paradoksal endring</strong>: at endring skjer ved at vi er med det som er, uten å forsøke å endre det. Ved å møte det som er slik det faktisk er uten å prøve å endre det, vil gjøre til at endring i seg selv skjer. \n\nHvis du tenker rent logisk om endring, så er det ingenting som er konstant, annet enn prinsippet om at alt endrer seg. Også dette gjelder følelser generelt - sorg er intet unntak. \n\nOg så kan det være at det blir for mye å forholde seg til sterke følelser over tid, og da vil det være naturlig at vi trenger distraksjon, eller at noe annet trenger å skje for at vi skal kunne gå videre. Og da vil jeg som terapeut også støtte deg i det."
-            },
-            {
-                "topic_title": "Når følelsene tar over",
-                "topic_content": "Hvordan er det for deg når følelsene tar over? Og hvilke følelser er det du kjenner på? \n\nI gestaltterapi er ikke fokuset å bli kvitt noe. Så om du kjenner på frykt for eksempel, så prøver vi i samtalene våre å bli kjent med hele deg og hvordan det kjennes ut å være redd. \n\nFølelser er ikke alltid logiske. Men de gir alltid mening, i den forstand at de alltid kommer fra en plass for en grunn. \n\nSå vi tar det i to steg. \n\nFørst: hva føler du? Kan du føle det en plass i kroppen? Vi utforsker det umiddelbare. \n\nSå neste steg: hvilke tanker har du om følelsene som kommer opp? \nI samtale med meg vil jeg oppfordre og støtte deg til å møte følelsene akkurat der de er - slik de er. Tanken bak denne innfallsvinkelen er at følelser alltid er der for en grunn, og at primærbehovene til følelsene er å bli møtt og holdt. \n\nVed å fortrenge eller skyve bort følelsen kan det hende ikke så mye nytt skjer, og det kan være at følelsen faktisk forsterkes. Et eksempel er generell angst, eller redsel for å være redd eller få angst. \n\nVed å møte det eller den som er redd akkurat slik den/ det er, vil det være større sjans for at den/ det redde blir møtt og kjenner seg mindre redd. Du og jeg holder det som er i kjærlig tilstedeværelse. \n\nDet er ikke alltid slik (for det vet vi ikke før vi har prøvd) - men fremgangsmåten er å prøve."
-            },
-            {
-                "topic_title": "Konflikter og kommunikasjon",
-                "topic_content": "Det kan være utfordrende å snakke sammen. Spesielt når man føler man ikke blir møtt eller forstått. \n\nÅ ha konflikter er ikke nødvendigvis en dårlig ting. Det kan være at konflikter oppstår fordi man har motstridende behov, ønsker eller verdier. Konflikter kan oppstå både inni en selv, men også i en relasjon eller i en gruppe av mennesker. \n\nSpørsmålet her er altså evnen til å være i et konfliktfylt felt, og om man kan holde spennet mellom motstridende følelser, interesser og behov på en god måte? \n\nOfte er det slik når det føles ut som om man ikke kommuniserer godt sammen, eller at konflikter oppstår uten en form for resolusjon eller løsning, at det kan være nyttig å utforske dette i samtaleterapi. Denne utforskningen kan foregå i forskjellige konstellasjoner, måtte det være i individualterapi, relasjonterapi, gruppeterapi, eller i workshops. Les mer om <a href=\"https://www.fillintheblank.no/#/services-offered\">Tjenester.</a>\n\nI tema om kommunikasjon handler det derfor om å være oppmerksom på hva som faktisk skjer. Vi øver på å holde følelser i oppmerksom tilstedeværelse og å la konfliktfylte motsatser få lov til å være sammen, uten å la det bli et personangrep. \n\nDu kan også lese mer om <a href=\"https://www.fillintheblank.no/#sample-topics\">Meditasjon og terapi</a> og <a href=\"https://www.fillintheblank.no/#sample-topics\">Sorg/ tap og prinsipp om paradoksal endring</a> for hvordan jeg som gestaltterapeut jobber med konflikter og kommunikasjon."
-            },
-            {
-                "topic_title": "Sinne og aggresjon",
-                "topic_content": "Jeg tenker på sinne som en sekundær følelse. Dette betyr ikke at jeg rangerer følelsen sinne som  annenrangs. Det betyr bare at sinne kommer som en konsekvens av en annen følelse eller tanke. \n\nSinne er vår måte å rope på. Når følelsene våre ikke blir møtt eller har en form for hastverk og må bli møtt umiddelbart, tror jeg sinne dukker opp og roper for oss. Og da er det spesielt viktig å lytte til sinne. \n\nSinne har mye kraft og har stort potensiale. Møter man det på en klok måte kan grunnleggende og dyp endring skje. "
-            },
-            {
-                "topic_title": "Annerledesgjøring - det å kjenne at jeg ikke hører til og er “som alle andre”",
-                "topic_content": "Mennesker er sosiale vesen og vi trenger å kjenne at vi hører til; at vi er trygge og at folk er glade i oss for dem vi er. Men det er ikke alltid så lett å finne aksept for dem vi er. \n\nAnnerledesgjøring slik jeg tenker på det, er de måtene mennesker med makt (eller tilsynelatende med makt) tar seg retten til å gjøre livet til andre vanskelig gjennom ord eller handling. \n\nRent konkret kan dette være rasisme, aldersdiskriminering, homofobi og transfobi, kvinnehat, diskriminering av mennesker med funksjonshemminger, og lignende. \n\nNoen har opplevd faktisk psykisk og fysiske vold, utestenging, mobbing, og trakassering kun på bakgrunn av personen de ble født til å være. Bare det at noen ser annerledes ut eller oppfører seg annerledes gjør at noen føler de kan behandle mennesker dårlig. \n\nFor mange er det ikke de store overgrepende, men heller de stadig tilbakevendende blikkene, eller kommentarene som aldri kan spores tilbake til noe direkte håndfast, men som likevel kjennes ubehagelig eller truende. Dette kalles noen ganger mikroaggresjon, som i seg selv ikke gjør stor skade der og da, men som bygger seg opp og bryter ned over tid. \n\nDette kan for eksempel være hvordan enkelte menn “snakker ned” til kvinner og maskerer det som kompliment, eller hvordan enkelte hvit-etniske nordmenn stadig spør en mann oppvokst i Molde hvor han er fra, ene og alene på bakgrunn av hudfargen hans. Den samme mannen blir kanskje gitt et kompliment for hvor “norsk” han virker eller hvor godt norsk han snakker, selv om han er mer “norsk” enn de fleste av oss andre hvit-etniske nordmenn noen gang vil bli. \n\nAlt dette er konstante påminnelser om hvordan andre gjennom kanskje tilsynelatende velmenende atferd likevel har en negativ og skadelig atferd på oss som føler vi ikke er “som alle andre.” Kanskje er det verd å undersøke hvor denne velmenende atferden kommer fra også? \n\nJeg tenker at alle ved etter eller annet punkt vil bli annerledesgjort. Det ligger i den menneskelige natur å posisjonere seg. Hvem er mer eller mindre verd enn meg? \n\nMen for enkelte blir det mye over tid, og kan bli overveldende til et punkt der det har negativ effekt på den psykiske (og noen gang fysiske) helsen vår. Man blir rett og slett sliten av å forholde seg til de konstante påminnelsene og inputene som blir gitt om at jeg ikke hører til, eller er annerledes og mindre verdt enn deg. Også dette kan man utforske mer i samtaleterapi, og å se om det finnes rom til å navigere møtene med diskriminerende og annerledesgjøring på en annen måte. \n\nOg så er det slik at annerledesgjøring alltid skjer i felt. Det er viktig å forstå begge partene som bidrar til at fenomenet annerledesgjøring finner sted. \nDu kan se sterke reaksjoner hos enkelte menn som hater kvinner som ikke oppfører seg “kvinnelig” nok, menn som ikke oppfører seg “mannlig” nok, eller for den saks skyld ikke en gang definerer seg som kvinne eller mann, men som trans eller ikke-binær. \n\nJeg tenker det du finner <strong> ikke akseptabelt </strong> hos andre sier alt om hvem du tror <strong> du </strong> er eller må være. Det truer kanskje din identitet når noen bryter med disse reglene? Og der ligger det mye potensiale til vekst og forsoning."
-            },
-            {
-                "topic_title": "Seksualitet og sex",
-                "topic_content": "Sex og seksualitet trenger ikke alltid være deilig og fantastisk. Det kan også være skremmende, skambelagt, fremmedgjørende og forvirrende. \n\nHva er for mye tanker om sex og drifter mot ting som tenner deg? \nOg hva om du ikke tenker på sex i det hele tatt? \n\nJeg tenker seksualitet er tilknyttet hele oss, og at “det meningsfulle hele” som gestaltterapien adresserer, er spesielt godt egnet til å utforske hvem vi er som seksuelle vesen. \n\nSex og seksualitet er integrert i alt vi er som mennesker, men at “de store narrativene” som religion, kapitalisme, heteronormativitet, og kjønnsnormativitet har laget begrensninger om hva som er rett og galt, normalt og unormalt, syndig og ønskelig. \n\nOfte blir seksualitet og sex satt i bokser som eksisterer separat fra alt det andre vi gjør i livene våre. Sex er lovbefestet til å finne sted i de private rom der de ikke skal være til sjenanse for andre. Helt naturlige fenomen som ereksjon og stive brystvorter skal skjules og gjemmes bort. \n\nJeg tenker at seksualitet er veldig mangfoldig og særs individuelt. Men jeg tror også at vi alle har blitt og er de seksuelle vesener vi er, nettopp fordi vi har opplevd alt det andre i livene våre. \n\nJeg tror også at seksualitet som blir fortrengt av de store narrativene også gjør at en sterk livskraft som sex er, vil finne andre måter å uttrykke seg på. Seksualiteten er slik sett veldig kreativ, hvis den får lov til å være det. \n\nDette betyr ikke at vi alltid er seksuelle. Det betyr ikke at alle er like stor seksuell drivkraft. Eller at den seksuelle drivkraften er konstant livet igjennom. \n\nEn person kan tenne på ekshibisjonisme fordi hen skammet seg mye over kropp som barn. \n\nEn annen over å bli ydmyket eller dominere, fordi det er befriende å utøve det i kontrollerte former i for eksempel et kinkmiljø, etter å ha kjent på å være undertrykt eller undertrykt i andre settinger. \n\nEn tredje person klarer ikke å få ereksjon når han har sex i et intimt og langvarig forhold, men har en enorm seksuell drift med fremmede. \n\nUten å skulle fjerne noe som helst, eller sette merkelapp på hva som er “normalt” eller “unormalt” vil jeg som terapeut heller prøve å utforske med deg hvordan vi kan være med seksualiteten din som en integrert del av hele deg. \n\nHvordan henger ting sammen med livshistorien din? Om du ofte er i tankene, hva skjer med kroppen din. Hva føler du/ sanser du? \n\nEr det noe som du alltid hopper over når du forteller historien din? Og kan det ligge noe i dette hoppet, i stillheten, eller rett utenfor historien om hvem du er og hva som gjør deg kåt?"
-            },
-            {
-                "topic_title": "Identitetskrise og livet “går i stå”",
-                "topic_content": "Jeg tror det er et menneskelig behov og ha noen form for rammer rundt “den vi er.” Men det kan bli både for mye og for lite rammer, og da begynner vi å mistrives. Følelsen av at alt for mye forandrer seg, eller at ingenting forandrer seg er tilstander som kan føles belastende over tid. \n\nSpørsmålet er da om vi kan finne måter å se på det sammen, slik at enten noe kjent kan fremstå slik at du kan finne små trygge skjær å stå på i virvelstormen, eller finne litt bevegelse i noe som kjennes som ulidelig stillstand."
-            },
-            {
-                "topic_title": "Meditasjon og terapi",
-                "topic_content": "Om du ønsker det kan vi legge til rette for å inkludere og etablere din egen meditasjonspraksis integrert i samtaleforløpet vårt. \n\nMed meditasjon mener jeg ikke her en praksis som gjør at du føler deg bedre eller roligere, men heller kan trene opp kapasiteten til å være med deg selv og omgivelsene akkurat slik de er. \n\nJeg har selv meditert siden 2002, og har siden den gang deltatt i mangfoldige lengre meditasjonsretreat. Fra 2014 til 2015 bodde jeg og praktiserte jeg som lekmannsmunk i San Francisco Zen Center - ett av de største Zenbuddhistiske templene utenfor Asia. Jeg har ved flere anledninger etter dette oppholdet også undervist og ledet meditasjonssamlinger. \n\nMed å introdusere meditasjon i terapiforløpet, ønsker jeg likevel ikke å fremme noen noen religiøse overbevisninger eller dogmaer oss i mellom. Jeg vil her foreslå frivillige guidede meditasjoner der vi for eksempel blir oppmerksom på pust og kropp (og tanker) mens vi sitter sammen i stillhet. \n\nInnsiktsmeditasjon, som Zenbuddhismen er en del av, handler i stor grad om å våkne opp til og se ting slik de virkelig er. \n\nDe fleste av oss ser verden gjennom et sett briller av tanker, følelser, minner og erfaringer (både kognitive og kroppslige). Vi tror vi vet hva vi ser. Vi setter merkelapper på hva vi vil ha mer av, hva vi ikke vil ha og hva vi finner uinterressant. \n\nGjennom å øve meditasjon snakker vi her om evnen til å opparbeide kapasiteten til å se ting slik de er helt konkret foran oss, for så å kunne forholde oss til tanker og følelser på en mer balansert måte. \n\nSagt på en annen måte: Vi er faktisk tankene og følelsene våre, men vi er langt mer enn dette også. Om du strekker det langt nok, kan du godt si at det går faktisk helt fint å observere seg selv helt uten å ta seg selv personlig. \n\nHar du lagt merke til at vi bare kan fokusere på én ting av gangen? Vi kan tro at vi multitasker, men egentlig skifter vi raskt mellom flere ting - men likevel én ting av gangen. \n\nDet stemmer at vi kan gå  og tenke samtidig. Men oppmerksomheten vår kan kun være rettet mot enten følelsen av å gå, tanken om at nå går vi, eller en annen ting. Altså kun én ting av gangen. Prøv det som et eksperiment, og se om det stemmer med din opplevelse også. \n\nI meditasjonspraksis øver vi å rette oppmerksomheten - ofte på opplevelsen av pust. Så vil vi ved et punkt bli distrahert av tanker, eller vurderinger av ting som foregår i hodet, kroppen, eller rundt oss. Når vi mediterer øver vi da på å se at oppmerksomheten skifter mellom tanker, opplevelser og følelser, for så å kjærlig og oppmerksomt rette oppmerksomheten tilbake til der den opprinnelig var - for eksempel pusten. \n\nDette gjør vi igjen og igjen og igjen. \n\nEvnen til å rette oppmerksomheten og å være klar over hvor oppmerksomheten vår er rettet, er som en egenskap som trenger opptrening - lik en muskel. \n\nOver lang tid vil evnen til å se hva som skjer i hodet og kropp øke, og dette kan potensielt sett ha en stor innvirkning på både terapiforløpet, men også i livet ditt generelt. \n\nNår noen lider i livet sitt er det ofte fordi de tror blindt på tankene de har om seg selv og omverdenen. \n\nOm du føler det kan være interessant å etablere en egen meditasjonspraksis i terapiforløpet vi har og kanskje til og med vil fortsette etter at vi er “ferdig snakka,” så er det mitt ønske og intensjon at jeg kan legge til rette for at du kan finne din egen meditasjonspraksis."
-            }
-        ]
-    },
-    "workshop": {
-        "page-title": "klimakrisa",
-        "section": "KOMMER: Den økologiske krisa - naturvandring og workshop"
-    },
-    "about-me": {
-        "page-title": "om meg",
-        "section-1": "<strong>Jeg heter Ørjan Bergan, er 43 år, og opprinnelig fra Tromsø.</strong> \n\n<strong>Det som gjør at jeg som person kjenner meg mest komfortabel med å jobbe som terapeut innenfor den humanistiske psykologitradisjonen er at jeg ikke står i posisjon til å si at det er noe galt med deg. </strong> \n\nJeg er kun her for å støtte deg i det du står i. Jeg stoler på at det er langt mer “rett” enn “galt” med deg, og at du med nok støtte og varhet/ tilstedeværelse kan regulere deg selv. Denne selvreguleringen kan skje gjennom den nye innsikten du får i samtaleterapi og valgene du derav tar fremover.",
-        "page-sub-title": "Erfaring",
-        "section-2": "Høsten 2016 startet jeg terapiutdannelsen ved Norsk Gestaltinstitutt Høyskole og fullførte august 2020. Jeg hadde klinisk praksis ved Follo Psykoterapifelleskap og Bogerud Psykoterapifelleskap (Tofte IOPT). Pr. i dag mottar jeg klienter via eget foretak primært digitalt men også på fysisk kontor i Tromsø. \n\nUnder studieforløpet jobbet jeg for Norsk Gestaltinstitutt Høyskole (NGI) som forskningsassistent for forskningsprosjektet CORE10/ gestalt diagnostic form (GDF) og FoU-ansvarlig Daan van Baalen.\n\nUnder utdanningsforløpet avholdt jeg dessuten jevnlige samlinger med fasilitert meditasjon og påfølgende samtale i regi av Studentrådet ved NGI. \n\nJeg har selv meditert siden 2002, og har siden den gang deltatt i mangfoldige lengre meditasjonsretreat. Fra 2014 til 2015 bodde jeg og praktiserte jeg som lekmannsmunk i San Francisco Zen Center - ett av de største Zenbuddhistiske templene utenfor Asia. Jeg har ved flere anledninger etter dette oppholdet også undervist og ledet meditasjonssamlinger. \n\nJeg er nå i prosess med å finne arenaer der jeg kan formalisere forskningskompetansen min i form av en doktorgrad. Forskningsprosjektet mitt vil benytte gestaltteori og metodikk. \n\nVed siden av mitt virke som gestaltterapeut jobber jeg som prosjektleder i firmaet Norse Feedback AS. Norse Psykiske Helse og Rus (NPHR) er det første dynamiske tilbakemeldingssystemet som løpende tilpasser seg pasientens svar innenfor problem- og ressursområder. Norse Psykisk Helse og Rus (NPHR) brukes av kommuner, sykehus, fastlege, private behandlingssteder og studenthelsetjeneste. \n\nMin jobb er primært i implementering, opplæring og veiledning av psykiske helsearbeidere, psykologer og terapeuter i bruk av NPHR. I tillegg er jeg ansvarlig for implementering og opplæring av psykiske helsearbeidere i Storbritannia. \n\nFra grunnen har jeg en bachelor i statsvitenskap fra Universitetet i Tromsø, en master i sosiologi fra the University of Chicago, og en påbegynt doktorgrad fra California Institute of Integral Studies i San Francisco."
-    },
-    "meditation": {
-        "page-title": "meditasjon",
-        "section": "KOMMER: Guidede meditasjoner for nybegynnere og viderekommende."
-    },
-    "contact-me": {
-        "page-title": "kontakt",
-        "section": "Henvendelser rettes til <a href=\"mailto:fillblank@protonmail.com\"><strong>fillblank@protonmail.com</strong></a>.\nDu kan også ringe meg direkte på <strong>466 767 23</strong>. \n\nKlienter i terapi møter fysisk i Storgata 158, 9008 Tromsø (inngang bakgård). \nSamtaleterapi tilbys også digitalt. \n\n[ fillintheblank ] er terapi og workshops tilbudt gjennom enkeltpersonforetak med organisasjonsnummer: <strong>996 232 557</strong>."
-    },
-    "general-content": {
-        "read-more-btn": "Les mer"
-    }
+      },
+      {
+        "title": "Brukermedvirkning",
+        "section": "Det er viktig for meg som terapeut at du kjenner deg ivaretatt og sett.\n\nNoen ganger kan det være tematikk som er vanskelig å ta opp ansikt til ansikt, eller som er så \"selvfølgelig\" at det rett og slett aldri blir tema under samtale.\n\nJeg tilbyr alle mine klienter muligheten til å svare ut et kartleggingsverktøy kalt Norse Feedback i forkant av første samtale. Kartleggingsverktøyet kan også støtte oss å holde oversikt over hvordan du har det i den tiden du går hos meg som gestaltterapeut.\n\nNår du svarer på Norse Feedback vil du bli stilt spørsmål om søvn, forhold til mat, om du kjenner deg nedfor og/eller engstelig, om du har ressurser rundt deg i form av venner/familie og gode boforhold etc.\n\nI tillegg kan du etter andre gangs kartlegging gi direkte tilbakemelding til meg som terapeut om du føler deg sett og forstått, og hva du gjerne vil ha mer eller mindre av i hvordan vi jobber sammen. Tanken er at dette skal styrke ditt bidrag og din medvirkning inn i terapiforløpet, og sikre at du får en god, trygg og effektiv samhandling sammen med meg som terapeut.\n\nDet er frivillig å fylle ut Norse Feedback og du vil bli forespurt i forkant av første samtale om du kan tenke deg å fylle ut kartleggingen.\n\nDet du svarer på vil selvsagt være innenfor trygge rammer og ingen andre enn oss to vil ha innsikt i svarene du gir.\n\nDu kan sjekke ut videoen nedenfor for å lære mer om Norse Feedback sitt kartleggingsverktøy: <a href=\"https://www.norsefeedback.no/helsepersonell/\" target=\"_blank\">norsefeedback.no/helsepersonell</a>"
+      },
+      {
+        "title": "Generelt om betaling og avbestilling",
+        "section": "Betaling skjer ved etterskuddsvis faktuering, og med betalingsfrist på 14 dager. \n\nDersom du må avbestille en time, ber jeg om at du gjør det så tidlig som mulig og senest innen 24 timer før avtalt time. Avbestilling senere enn 24 timer før avtalt tid eller manglende oppmøte uten melding blir fakturert som full time. \n\nGestaltterapi inngår pr. i dag ikke i helserefusjonsordningen."
+      }
+    ]
+  },
+  "sample-topics": {
+    "page-title": "tema for samtale",
+    "section": "I samtaleterapi kan hva som helst komme opp. Og noen ganger ingenting. Min rolle og intensjon som gestaltterapeut (og ikke minst som menneske) er å møte deg slik du er - der du er. \n\n<i><strong>Jeg har her skrevet litt om et par typiske tema som har kommet opp i tiden jeg har jobbet som gestaltterapeut.</strong></i> \n\nMen ikke ta dette som en oppskrift på hvordan samtalen oss i mellom skal skje, eller hva vi kommer til å snakke om. Det er du som vet hva du vil snakke om, og du og jeg som kommer fram til hva som skal skje under selve samtalen. \n\n<i><strong>Du kan lese tekstene under som en måte å bli kjent med meg som terapeut.</strong></i>",
+    "topics-blocks": [
+      {
+        "topic_title": "Sorg/Tap",
+        "topic_content": "Hva mer kan man si når alt har falt bort? \n\nNår jeg tenker på bunnløs sorg kommer Bjørk’s video av Black Lake opp på netthinnen. I flere segmenter av sangen stopper sangen helt opp, og Bjørk gestikulerer med hele seg at ingen ord kommer ut. Hun faller til kness. Du hører lyden av repetativ duving fra fioliner. Hun uttrykker det som ikke lar seg uttrykke med ord. \n\nNår sorgen dominerer alt, hvordan føles det da? Og har du noen der som kan holde deg i hånden når det skjer? \n\nDet kan være vanskelig å dele en slik sorg med sine nærmeste. Kanskje var det nettopp den som sto deg nærmest som ble borte, eller kanskje dine nærmeste også går gjennom sin egen sorgprosess. \n\nNoen ganger kan det bli for overveldende å snakke med de som står deg nær om sorgen du bærer. \n\nMen sorg trenger heller ikke være lammende en den forstand at du mister stemme eller handlekraft. Sorg kan også kjennes som en svak men vedvarende bakgrunnstøy som legger en gråfarge som virker umulig å komme unna. Og da er det også der sorgen kan møtes. \n\nSorg kan gjelde det å miste noe du hadde fra før, som helse, ungdom, eller rett og slett det at du blir eldre og kommer stadig nærmere et statistisk levd liv. Sorgen over det som aldri ble prøvd ut, eller det du ikke lenger kan gjøre nå pga. helse/ alder/ økonomi osv. \n\nSom terapeut vil jeg være med deg i sorgen. Puste med deg når det kjennes ut som det ikke går an å puste mer. Sammen oppleve at sorg alltid kommer i bølger. \n\nSorg i seg selv er en naturlig reaksjon på tap. Sorg som følelse har ingen andre behov enn å bli møtt, og trenger kun å bli holdt og akseptert for at heling skal skje. \n\n I gestaltteorien nevnes et prinsipp om <strong>paradoksal endring</strong>: at endring skjer ved at vi er med det som er, uten å forsøke å endre det. Ved å møte det som er slik det faktisk er uten å prøve å endre det, vil gjøre til at endring i seg selv skjer. \n\nHvis du tenker rent logisk om endring, så er det ingenting som er konstant, annet enn prinsippet om at alt endrer seg. Også dette gjelder følelser generelt - sorg er intet unntak. \n\nOg så kan det være at det blir for mye å forholde seg til sterke følelser over tid, og da vil det være naturlig at vi trenger distraksjon, eller at noe annet trenger å skje for at vi skal kunne gå videre. Og da vil jeg som terapeut også støtte deg i det."
+      },
+      {
+        "topic_title": "Når følelsene tar over",
+        "topic_content": "Hvordan er det for deg når følelsene tar over? Og hvilke følelser er det du kjenner på? \n\nI gestaltterapi er ikke fokuset å bli kvitt noe. Så om du kjenner på frykt for eksempel, så prøver vi i samtalene våre å bli kjent med hele deg og hvordan det kjennes ut å være redd. \n\nFølelser er ikke alltid logiske. Men de gir alltid mening, i den forstand at de alltid kommer fra en plass for en grunn. \n\nSå vi tar det i to steg. \n\nFørst: hva føler du? Kan du føle det en plass i kroppen? Vi utforsker det umiddelbare. \n\nSå neste steg: hvilke tanker har du om følelsene som kommer opp? \nI samtale med meg vil jeg oppfordre og støtte deg til å møte følelsene akkurat der de er - slik de er. Tanken bak denne innfallsvinkelen er at følelser alltid er der for en grunn, og at primærbehovene til følelsene er å bli møtt og holdt. \n\nVed å fortrenge eller skyve bort følelsen kan det hende ikke så mye nytt skjer, og det kan være at følelsen faktisk forsterkes. Et eksempel er generell angst, eller redsel for å være redd eller få angst. \n\nVed å møte det eller den som er redd akkurat slik den/ det er, vil det være større sjans for at den/ det redde blir møtt og kjenner seg mindre redd. Du og jeg holder det som er i kjærlig tilstedeværelse. \n\nDet er ikke alltid slik (for det vet vi ikke før vi har prøvd) - men fremgangsmåten er å prøve."
+      },
+      {
+        "topic_title": "Konflikter og kommunikasjon",
+        "topic_content": "Det kan være utfordrende å snakke sammen. Spesielt når man føler man ikke blir møtt eller forstått. \n\nÅ ha konflikter er ikke nødvendigvis en dårlig ting. Det kan være at konflikter oppstår fordi man har motstridende behov, ønsker eller verdier. Konflikter kan oppstå både inni en selv, men også i en relasjon eller i en gruppe av mennesker. \n\nSpørsmålet her er altså evnen til å være i et konfliktfylt felt, og om man kan holde spennet mellom motstridende følelser, interesser og behov på en god måte? \n\nOfte er det slik når det føles ut som om man ikke kommuniserer godt sammen, eller at konflikter oppstår uten en form for resolusjon eller løsning, at det kan være nyttig å utforske dette i samtaleterapi. Denne utforskningen kan foregå i forskjellige konstellasjoner, måtte det være i individualterapi, relasjonterapi, gruppeterapi, eller i workshops. Les mer om <a href=\"https://www.fillintheblank.no/#/services-offered\">Tjenester.</a>\n\nI tema om kommunikasjon handler det derfor om å være oppmerksom på hva som faktisk skjer. Vi øver på å holde følelser i oppmerksom tilstedeværelse og å la konfliktfylte motsatser få lov til å være sammen, uten å la det bli et personangrep. \n\nDu kan også lese mer om <a href=\"https://www.fillintheblank.no/#sample-topics\">Meditasjon og terapi</a> og <a href=\"https://www.fillintheblank.no/#sample-topics\">Sorg/ tap og prinsipp om paradoksal endring</a> for hvordan jeg som gestaltterapeut jobber med konflikter og kommunikasjon."
+      },
+      {
+        "topic_title": "Sinne og aggresjon",
+        "topic_content": "Jeg tenker på sinne som en sekundær følelse. Dette betyr ikke at jeg rangerer følelsen sinne som  annenrangs. Det betyr bare at sinne kommer som en konsekvens av en annen følelse eller tanke. \n\nSinne er vår måte å rope på. Når følelsene våre ikke blir møtt eller har en form for hastverk og må bli møtt umiddelbart, tror jeg sinne dukker opp og roper for oss. Og da er det spesielt viktig å lytte til sinne. \n\nSinne har mye kraft og har stort potensiale. Møter man det på en klok måte kan grunnleggende og dyp endring skje. "
+      },
+      {
+        "topic_title": "Annerledesgjøring - det å kjenne at jeg ikke hører til og er “som alle andre”",
+        "topic_content": "Mennesker er sosiale vesen og vi trenger å kjenne at vi hører til; at vi er trygge og at folk er glade i oss for dem vi er. Men det er ikke alltid så lett å finne aksept for dem vi er. \n\nAnnerledesgjøring slik jeg tenker på det, er de måtene mennesker med makt (eller tilsynelatende med makt) tar seg retten til å gjøre livet til andre vanskelig gjennom ord eller handling. \n\nRent konkret kan dette være rasisme, aldersdiskriminering, homofobi og transfobi, kvinnehat, diskriminering av mennesker med funksjonshemminger, og lignende. \n\nNoen har opplevd faktisk psykisk og fysiske vold, utestenging, mobbing, og trakassering kun på bakgrunn av personen de ble født til å være. Bare det at noen ser annerledes ut eller oppfører seg annerledes gjør at noen føler de kan behandle mennesker dårlig. \n\nFor mange er det ikke de store overgrepende, men heller de stadig tilbakevendende blikkene, eller kommentarene som aldri kan spores tilbake til noe direkte håndfast, men som likevel kjennes ubehagelig eller truende. Dette kalles noen ganger mikroaggresjon, som i seg selv ikke gjør stor skade der og da, men som bygger seg opp og bryter ned over tid. \n\nDette kan for eksempel være hvordan enkelte menn “snakker ned” til kvinner og maskerer det som kompliment, eller hvordan enkelte hvit-etniske nordmenn stadig spør en mann oppvokst i Molde hvor han er fra, ene og alene på bakgrunn av hudfargen hans. Den samme mannen blir kanskje gitt et kompliment for hvor “norsk” han virker eller hvor godt norsk han snakker, selv om han er mer “norsk” enn de fleste av oss andre hvit-etniske nordmenn noen gang vil bli. \n\nAlt dette er konstante påminnelser om hvordan andre gjennom kanskje tilsynelatende velmenende atferd likevel har en negativ og skadelig atferd på oss som føler vi ikke er “som alle andre.” Kanskje er det verd å undersøke hvor denne velmenende atferden kommer fra også? \n\nJeg tenker at alle ved etter eller annet punkt vil bli annerledesgjort. Det ligger i den menneskelige natur å posisjonere seg. Hvem er mer eller mindre verd enn meg? \n\nMen for enkelte blir det mye over tid, og kan bli overveldende til et punkt der det har negativ effekt på den psykiske (og noen gang fysiske) helsen vår. Man blir rett og slett sliten av å forholde seg til de konstante påminnelsene og inputene som blir gitt om at jeg ikke hører til, eller er annerledes og mindre verdt enn deg. Også dette kan man utforske mer i samtaleterapi, og å se om det finnes rom til å navigere møtene med diskriminerende og annerledesgjøring på en annen måte. \n\nOg så er det slik at annerledesgjøring alltid skjer i felt. Det er viktig å forstå begge partene som bidrar til at fenomenet annerledesgjøring finner sted. \nDu kan se sterke reaksjoner hos enkelte menn som hater kvinner som ikke oppfører seg “kvinnelig” nok, menn som ikke oppfører seg “mannlig” nok, eller for den saks skyld ikke en gang definerer seg som kvinne eller mann, men som trans eller ikke-binær. \n\nJeg tenker det du finner <strong> ikke akseptabelt </strong> hos andre sier alt om hvem du tror <strong> du </strong> er eller må være. Det truer kanskje din identitet når noen bryter med disse reglene? Og der ligger det mye potensiale til vekst og forsoning."
+      },
+      {
+        "topic_title": "Seksualitet og sex",
+        "topic_content": "Sex og seksualitet trenger ikke alltid være deilig og fantastisk. Det kan også være skremmende, skambelagt, fremmedgjørende og forvirrende. \n\nHva er for mye tanker om sex og drifter mot ting som tenner deg? \nOg hva om du ikke tenker på sex i det hele tatt? \n\nJeg tenker seksualitet er tilknyttet hele oss, og at “det meningsfulle hele” som gestaltterapien adresserer, er spesielt godt egnet til å utforske hvem vi er som seksuelle vesen. \n\nSex og seksualitet er integrert i alt vi er som mennesker, men at “de store narrativene” som religion, kapitalisme, heteronormativitet, og kjønnsnormativitet har laget begrensninger om hva som er rett og galt, normalt og unormalt, syndig og ønskelig. \n\nOfte blir seksualitet og sex satt i bokser som eksisterer separat fra alt det andre vi gjør i livene våre. Sex er lovbefestet til å finne sted i de private rom der de ikke skal være til sjenanse for andre. Helt naturlige fenomen som ereksjon og stive brystvorter skal skjules og gjemmes bort. \n\nJeg tenker at seksualitet er veldig mangfoldig og særs individuelt. Men jeg tror også at vi alle har blitt og er de seksuelle vesener vi er, nettopp fordi vi har opplevd alt det andre i livene våre. \n\nJeg tror også at seksualitet som blir fortrengt av de store narrativene også gjør at en sterk livskraft som sex er, vil finne andre måter å uttrykke seg på. Seksualiteten er slik sett veldig kreativ, hvis den får lov til å være det. \n\nDette betyr ikke at vi alltid er seksuelle. Det betyr ikke at alle er like stor seksuell drivkraft. Eller at den seksuelle drivkraften er konstant livet igjennom. \n\nEn person kan tenne på ekshibisjonisme fordi hen skammet seg mye over kropp som barn. \n\nEn annen over å bli ydmyket eller dominere, fordi det er befriende å utøve det i kontrollerte former i for eksempel et kinkmiljø, etter å ha kjent på å være undertrykt eller undertrykt i andre settinger. \n\nEn tredje person klarer ikke å få ereksjon når han har sex i et intimt og langvarig forhold, men har en enorm seksuell drift med fremmede. \n\nUten å skulle fjerne noe som helst, eller sette merkelapp på hva som er “normalt” eller “unormalt” vil jeg som terapeut heller prøve å utforske med deg hvordan vi kan være med seksualiteten din som en integrert del av hele deg. \n\nHvordan henger ting sammen med livshistorien din? Om du ofte er i tankene, hva skjer med kroppen din. Hva føler du/ sanser du? \n\nEr det noe som du alltid hopper over når du forteller historien din? Og kan det ligge noe i dette hoppet, i stillheten, eller rett utenfor historien om hvem du er og hva som gjør deg kåt?"
+      },
+      {
+        "topic_title": "Identitetskrise og livet “går i stå”",
+        "topic_content": "Jeg tror det er et menneskelig behov og ha noen form for rammer rundt “den vi er.” Men det kan bli både for mye og for lite rammer, og da begynner vi å mistrives. Følelsen av at alt for mye forandrer seg, eller at ingenting forandrer seg er tilstander som kan føles belastende over tid. \n\nSpørsmålet er da om vi kan finne måter å se på det sammen, slik at enten noe kjent kan fremstå slik at du kan finne små trygge skjær å stå på i virvelstormen, eller finne litt bevegelse i noe som kjennes som ulidelig stillstand."
+      },
+      {
+        "topic_title": "Meditasjon og terapi",
+        "topic_content": "Om du ønsker det kan vi legge til rette for å inkludere og etablere din egen meditasjonspraksis integrert i samtaleforløpet vårt. \n\nMed meditasjon mener jeg ikke her en praksis som gjør at du føler deg bedre eller roligere, men heller kan trene opp kapasiteten til å være med deg selv og omgivelsene akkurat slik de er. \n\nJeg har selv meditert siden 2002, og har siden den gang deltatt i mangfoldige lengre meditasjonsretreat. Fra 2014 til 2015 bodde jeg og praktiserte jeg som lekmannsmunk i San Francisco Zen Center - ett av de største Zenbuddhistiske templene utenfor Asia. Jeg har ved flere anledninger etter dette oppholdet også undervist og ledet meditasjonssamlinger. \n\nMed å introdusere meditasjon i terapiforløpet, ønsker jeg likevel ikke å fremme noen noen religiøse overbevisninger eller dogmaer oss i mellom. Jeg vil her foreslå frivillige guidede meditasjoner der vi for eksempel blir oppmerksom på pust og kropp (og tanker) mens vi sitter sammen i stillhet. \n\nInnsiktsmeditasjon, som Zenbuddhismen er en del av, handler i stor grad om å våkne opp til og se ting slik de virkelig er. \n\nDe fleste av oss ser verden gjennom et sett briller av tanker, følelser, minner og erfaringer (både kognitive og kroppslige). Vi tror vi vet hva vi ser. Vi setter merkelapper på hva vi vil ha mer av, hva vi ikke vil ha og hva vi finner uinterressant. \n\nGjennom å øve meditasjon snakker vi her om evnen til å opparbeide kapasiteten til å se ting slik de er helt konkret foran oss, for så å kunne forholde oss til tanker og følelser på en mer balansert måte. \n\nSagt på en annen måte: Vi er faktisk tankene og følelsene våre, men vi er langt mer enn dette også. Om du strekker det langt nok, kan du godt si at det går faktisk helt fint å observere seg selv helt uten å ta seg selv personlig. \n\nHar du lagt merke til at vi bare kan fokusere på én ting av gangen? Vi kan tro at vi multitasker, men egentlig skifter vi raskt mellom flere ting - men likevel én ting av gangen. \n\nDet stemmer at vi kan gå  og tenke samtidig. Men oppmerksomheten vår kan kun være rettet mot enten følelsen av å gå, tanken om at nå går vi, eller en annen ting. Altså kun én ting av gangen. Prøv det som et eksperiment, og se om det stemmer med din opplevelse også. \n\nI meditasjonspraksis øver vi å rette oppmerksomheten - ofte på opplevelsen av pust. Så vil vi ved et punkt bli distrahert av tanker, eller vurderinger av ting som foregår i hodet, kroppen, eller rundt oss. Når vi mediterer øver vi da på å se at oppmerksomheten skifter mellom tanker, opplevelser og følelser, for så å kjærlig og oppmerksomt rette oppmerksomheten tilbake til der den opprinnelig var - for eksempel pusten. \n\nDette gjør vi igjen og igjen og igjen. \n\nEvnen til å rette oppmerksomheten og å være klar over hvor oppmerksomheten vår er rettet, er som en egenskap som trenger opptrening - lik en muskel. \n\nOver lang tid vil evnen til å se hva som skjer i hodet og kropp øke, og dette kan potensielt sett ha en stor innvirkning på både terapiforløpet, men også i livet ditt generelt. \n\nNår noen lider i livet sitt er det ofte fordi de tror blindt på tankene de har om seg selv og omverdenen. \n\nOm du føler det kan være interessant å etablere en egen meditasjonspraksis i terapiforløpet vi har og kanskje til og med vil fortsette etter at vi er “ferdig snakka,” så er det mitt ønske og intensjon at jeg kan legge til rette for at du kan finne din egen meditasjonspraksis."
+      }
+    ]
+  },
+  "workshop": {
+    "page-title": "klimakrisa",
+    "section": "KOMMER: Den økologiske krisa - naturvandring og workshop"
+  },
+  "about-me": {
+    "page-title": "om meg",
+    "section-1": "<strong>Jeg heter Ørjan Bergan, er 43 år, og opprinnelig fra Tromsø.</strong> \n\n<strong>Det som gjør at jeg som person kjenner meg mest komfortabel med å jobbe som terapeut innenfor den humanistiske psykologitradisjonen er at jeg ikke står i posisjon til å si at det er noe galt med deg. </strong> \n\nJeg er kun her for å støtte deg i det du står i. Jeg stoler på at det er langt mer “rett” enn “galt” med deg, og at du med nok støtte og varhet/ tilstedeværelse kan regulere deg selv. Denne selvreguleringen kan skje gjennom den nye innsikten du får i samtaleterapi og valgene du derav tar fremover.",
+    "page-sub-title": "Erfaring",
+    "section-2": "Høsten 2016 startet jeg terapiutdannelsen ved Norsk Gestaltinstitutt Høyskole og fullførte august 2020. Jeg hadde klinisk praksis ved Follo Psykoterapifelleskap og Bogerud Psykoterapifelleskap (Tofte IOPT). Pr. i dag mottar jeg klienter via eget foretak primært digitalt men også på fysisk kontor i Tromsø. \n\nUnder studieforløpet jobbet jeg for Norsk Gestaltinstitutt Høyskole (NGI) som forskningsassistent for forskningsprosjektet CORE10/ gestalt diagnostic form (GDF) og FoU-ansvarlig Daan van Baalen.\n\nUnder utdanningsforløpet avholdt jeg dessuten jevnlige samlinger med fasilitert meditasjon og påfølgende samtale i regi av Studentrådet ved NGI. \n\nJeg har selv meditert siden 2002, og har siden den gang deltatt i mangfoldige lengre meditasjonsretreat. Fra 2014 til 2015 bodde jeg og praktiserte jeg som lekmannsmunk i San Francisco Zen Center - ett av de største Zenbuddhistiske templene utenfor Asia. Jeg har ved flere anledninger etter dette oppholdet også undervist og ledet meditasjonssamlinger. \n\nJeg er nå i prosess med å finne arenaer der jeg kan formalisere forskningskompetansen min i form av en doktorgrad. Forskningsprosjektet mitt vil benytte gestaltteori og metodikk. \n\nVed siden av mitt virke som gestaltterapeut jobber jeg som prosjektleder i firmaet Norse Feedback AS. Norse Psykiske Helse og Rus (NPHR) er det første dynamiske tilbakemeldingssystemet som løpende tilpasser seg pasientens svar innenfor problem- og ressursområder. Norse Psykisk Helse og Rus (NPHR) brukes av kommuner, sykehus, fastlege, private behandlingssteder og studenthelsetjeneste. \n\nMin jobb er primært i implementering, opplæring og veiledning av psykiske helsearbeidere, psykologer og terapeuter i bruk av NPHR. I tillegg er jeg ansvarlig for implementering og opplæring av psykiske helsearbeidere i Storbritannia. \n\nFra grunnen har jeg en bachelor i statsvitenskap fra Universitetet i Tromsø, en master i sosiologi fra the University of Chicago, og en påbegynt doktorgrad fra California Institute of Integral Studies i San Francisco."
+  },
+  "meditation": {
+    "page-title": "meditasjon",
+    "section": "KOMMER: Guidede meditasjoner for nybegynnere og viderekommende."
+  },
+  "contact-me": {
+    "page-title": "kontakt",
+    "section": "Henvendelser rettes til <a href=\"mailto:fillblank@protonmail.com\"><strong>fillblank@protonmail.com</strong></a>.\nDu kan også ringe meg direkte på <strong>466 767 23</strong>. \n\nKlienter i terapi møter fysisk i Storgata 158, 9008 Tromsø (inngang bakgård). \nSamtaleterapi tilbys også digitalt. \n\n[ fillintheblank ] er terapi og workshops tilbudt gjennom enkeltpersonforetak med organisasjonsnummer: <strong>996 232 557</strong>."
+  },
+  "general-content": {
+    "read-more-btn": "Les mer"
+  }
 }
